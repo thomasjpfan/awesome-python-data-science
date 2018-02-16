@@ -5,6 +5,7 @@ A curated list of Python libraries used for data science.
 ## Contents
 
 - [Machine Learning Frameworks](#machine-learning-frameworks)
+- [Scientific](#scientific)
 - [Deep Learning Frameworks](#deep-learning-frameworks)
 - [Deep Learning Tools](#deep-learning-tools)
 - [Deep Learning Projects](#deep-learning-projects)
@@ -18,11 +19,6 @@ A curated list of Python libraries used for data science.
 
 ## Machine Learning Frameworks
 
-### General ML Frameworks
-
-- [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
-- [SciPy](http://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
-- [Pandas](http://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
 - [scikit-learn](http://scikit-learn.org/stable/) - Machine learning.
 - [CatBoost](https://catboost.yandex) - Gradient boosting library with categorical features support.
 - [LightGBM](http://lightgbm.readthedocs.io) - Fast, distributed, high performance gradient boosting
@@ -30,32 +26,35 @@ A curated list of Python libraries used for data science.
 - [PyMC](https://github.com/pymc-devs/pymc3) - Probabilistic Programming
 - [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics.
 - [SymPy](https://github.com/sympy/sympy) - A computer algebra system.
-- [blaze](https://github.com/blaze/blaze) - NumPy and Pandas for databases.
 - [NetworkX](https://networkx.github.io/) - Creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
-- [Numba](http://numba.pydata.org/) - NumPy aware dynamic Python compiler using LLVM
 - [dask-ml](https://github.com/dask/dask-ml) - Distributed and parallel machine learning.
 - [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Perform under sampling and over sampling.
-
-### Specific ML Tools
-
-- [astropy](http://www.astropy.org/) - Astronomy and astrophysics.
-- [Biopython](http://biopython.org) - Astronomy and astrophysics.
-- [PyDy](http://www.pydy.org) - Multibody Dynamics.
-- [DIPY](https://github.com/nipy/dipy) - Diffusion MR Imaging.
-- [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise) - Wrapper for vowpal_wabbit
 - [lightning](https://github.com/scikit-learn-contrib/lightning) - Large-scale linear models.
 - [sklearn-crfsuite](https://github.com/TeamHG-Memex/sklearn-crfsuite) - API for CRFsuite, Conditional Random Fields for labeling sequential data.
-- [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - Global optimization with gaussian processes.
+- [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise) - Wrapper for vowpal_wabbit
 - [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a `scipy.optimize` interface.
-- [hmmlearn](https://github.com/hmmlearn/hmmlearn) - Hidden Markov Models.
-- [bayespy](https://github.com/bayespy/bayespy) - Bayesian inference tools.
+- [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - Global optimization with gaussian processes.
 - [gplearn](https://github.com/trevorstephens/gplearn) - Genetic Programming.
 - [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - Scikit-learn based module for multi-label.
 - [mlens](https://github.com/flennerhag/mlens) - ML-Ensemble high performance ensemble learning.
 - [speedml](https://github.com/Speedml/speedml) - Speed start machine learning projects.
 - [fastFM](https://github.com/ibayer/fastFM) - Factorization Machines.
 - [python-glmnet](https://github.com/civisanalytics/python-glmnet) - glmnet package for fitting generalized linear models.
+- [hmmlearn](https://github.com/hmmlearn/hmmlearn) - Hidden Markov Models.
 - [vecstack](https://github.com/vecxoz/vecstack) - stacking (machine learning technique)
+- [bayespy](https://github.com/bayespy/bayespy) - Bayesian inference tools.
+
+## Scientific
+
+- [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
+- [SciPy](http://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
+- [Pandas](http://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
+- [Numba](http://numba.pydata.org/) - NumPy aware dynamic Python compiler using LLVM
+- [blaze](https://github.com/blaze/blaze) - NumPy and Pandas for databases.
+- [astropy](http://www.astropy.org/) - Astronomy and astrophysics.
+- [Biopython](http://biopython.org) - Astronomy and astrophysics.
+- [PyDy](http://www.pydy.org) - Multibody Dynamics.
+- [DIPY](https://github.com/nipy/dipy) - Diffusion MR Imaging.
 
 ## Deep Learning Frameworks
 
