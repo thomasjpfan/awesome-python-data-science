@@ -196,7 +196,7 @@ A curated list of Python libraries used for data science.
 ### Web Content
 
 - [sum](https://github.com/miso-belica/sumy) - Automatic summarization of text documents and HTML.
-- [textract] - Extract text from any document.
+- [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.
 - [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation.
 
 ### Text
