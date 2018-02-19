@@ -43,6 +43,7 @@ A curated list of Python libraries used for data science.
 - [hmmlearn](https://github.com/hmmlearn/hmmlearn) - Hidden Markov Models.
 - [vecstack](https://github.com/vecxoz/vecstack) - stacking (machine learning technique)
 - [bayespy](https://github.com/bayespy/bayespy) - Bayesian inference tools.
+- [modAL](https://github.com/cosmic-cortex/modAL) - Modular Active Learning framework
 
 ## Scientific
 
