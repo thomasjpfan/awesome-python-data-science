@@ -139,6 +139,7 @@ A curated list of Python libraries used for data science.
 - [elih](https://github.com/fvinas/elih) - Explain Machine Learning.
 - [kmeans_smote](https://github.com/felix-last/kmeans_smote) - Oversampling for imbalanced learning based on k-means and SMOTE.
 - [pyUpSet](https://github.com/ImSoErgodic/py-upset) - UpSet suite of visualisation methods.
+- [lime](https://github.com/marcotcr/lime) -  Explaining the predictions of any machine learning classifier
 
 ## Feature Extraction
 
