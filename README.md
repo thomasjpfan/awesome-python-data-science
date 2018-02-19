@@ -55,6 +55,7 @@ A curated list of Python libraries used for data science.
 - [Biopython](http://biopython.org) - Astronomy and astrophysics.
 - [PyDy](http://www.pydy.org) - Multibody Dynamics.
 - [DIPY](https://github.com/nipy/dipy) - Diffusion MR Imaging.
+- [bcolz](https://github.com/Blosc/bcolz) - Columnar data container that can be compressed.
 
 ## Deep Learning Frameworks
 
