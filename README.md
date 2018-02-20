@@ -44,6 +44,7 @@ A curated list of Python libraries used for data science.
 - [vecstack](https://github.com/vecxoz/vecstack) - stacking (machine learning technique)
 - [bayespy](https://github.com/bayespy/bayespy) - Bayesian inference tools.
 - [modAL](https://github.com/cosmic-cortex/modAL) - Modular Active Learning framework
+- [deap](https://github.com/DEAP/deap) - Evolutionary computation framework.
 
 ## Scientific
 
@@ -57,6 +58,7 @@ A curated list of Python libraries used for data science.
 - [PyDy](http://www.pydy.org) - Multibody Dynamics.
 - [DIPY](https://github.com/nipy/dipy) - Diffusion MR Imaging.
 - [bcolz](https://github.com/Blosc/bcolz) - Columnar data container that can be compressed.
+- [nilearn](https://github.com/nilearn/nilearn) - NeuroImaging.
 
 ## Deep Learning Frameworks
 
@@ -155,6 +157,7 @@ A curated list of Python libraries used for data science.
 - [fancyimpute](https://github.com/iskandr/fancyimpute) - Multivariate imputation and matrix completion algorithms.
 - [raccoon](https://github.com/rsheftel/raccoon) - DataFrame with fast insert and appends.
 - [kmodes](https://github.com/nicodv/kmodes) - k-modes and k-prototypes clustering algorithm.
+- [annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors
 
 ### Time Series
 
