@@ -118,6 +118,9 @@ A curated list of Python libraries used for data science.
 - [pyLDAvis](https://github.com/bmabey/pyLDAvis) - Interactive topic model visualization.
 - [cufflinks](https://github.com/santosjorge/cufflinks) - Productivity Tools for Plotly + Pandas
 - [scatterText](https://github.com/JasonKessler/scattertext) - Visualizations of how language differs among document types.
+- [plotnine](https://github.com/has2k1/plotnine) - ggplot for python
+- [ggpy](https://github.com/yhat/ggpy) - ggplot for python
+- [mizani](https://github.com/has2k1/mizani) - scales package
 
 ## AutoML
 
