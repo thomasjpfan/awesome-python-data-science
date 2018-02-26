@@ -45,6 +45,7 @@ A curated list of Python libraries used for data science.
 - [bayespy](https://github.com/bayespy/bayespy) - Bayesian inference tools.
 - [modAL](https://github.com/cosmic-cortex/modAL) - Modular Active Learning framework
 - [deap](https://github.com/DEAP/deap) - Evolutionary computation framework.
+- [pyro](https://github.com/uber/pyro) - Deep universal probabilistic programming with PyTorch
 
 ## Scientific
 
