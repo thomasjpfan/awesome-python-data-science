@@ -60,6 +60,7 @@ A curated list of Python libraries used for data science.
 - [DIPY](https://github.com/nipy/dipy) - Diffusion MR Imaging.
 - [bcolz](https://github.com/Blosc/bcolz) - Columnar data container that can be compressed.
 - [nilearn](https://github.com/nilearn/nilearn) - NeuroImaging.
+- [patsy](https://github.com/pydata/patsy) - Describing statistical models using symbolic formulas
 
 ## Deep Learning Frameworks
 
