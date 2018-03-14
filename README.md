@@ -133,6 +133,7 @@ A curated list of Python libraries used for data science.
 - [auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning.
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - Automated Machine Learning python library.
 - [devol](https://github.com/joeddav/devol) - Automated deep neural network design via genetic programming.
+- [skll](https://github.com/EducationalTestingService/skll) - SciKit-Learn Laboratory (SKLL) makes it easy to run machine learning experiments.
 
 ## Exploration
 
