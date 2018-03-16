@@ -236,6 +236,8 @@ A curated list of Python libraries used for data science.
 - [python-wordsegment](https://github.com/grantjenks/python-wordsegment) -  English word segmentation.
 - [pyahocorasick](https://github.com/WojciechMula/pyahocorasick) - Exact or approximate multi-pattern string search.
 - [Wordbatch](https://github.com/anttttti/Wordbatch) - Parallel text feature extraction for machine learning
+- [langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library
+- [translation](https://github.com/littlecodersh/translation) - Uses web services for text translation
 
 ### Graphs
 
