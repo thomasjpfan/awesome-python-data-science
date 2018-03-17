@@ -68,6 +68,7 @@ A curated list of Python libraries used for data science.
 - [PyTorch](http://pytorch.org) - DL Framework.
 - [onnx](https://github.com/onnx/onnx) - Open Neutral Network Exchange.
 - [Keras](https://keras.io) - High-level neutral networks API.
+- [tensorlayer](https://github.com/tensorlayer/tensorlayer) - A Deep Learning and Reinforcement Learning Library for Researchers and Engineers.
 
 ## Deep Learning Tools
 
@@ -89,6 +90,7 @@ A curated list of Python libraries used for data science.
 - [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions.
 - [tfdeploy](https://github.com/riga/tfdeploy) - Deploy tensorflow graphs.
 - [ktext](https://github.com/hamelsmu/ktext) - Utilities for preprocessing text for deep learning with Keras.
+- [foolbox](https://github.com/bethgelab/foolbox) - Python toolbox to create adversarial examples that fool neural networks.
 
 ## Deep Learning Projects
 
@@ -103,6 +105,8 @@ A curated list of Python libraries used for data science.
 - [vqa.pytorch](https://github.com/Cadene/vqa.pytorch) - Visual Question Answering in Pytorch.
 - [Half-Life Regression](https://github.com/duolingo/halflife-regression) - Model for spaced repetition practice.
 - [learning-to-learn](https://github.com/deepmind/learning-to-learn) - Learning to Learn in Tensorflow.
+- [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api
+- [capsule-networks](https://github.com/gram-ai/capsule-networks) - A PyTorch implementation of the NIPS 2017 paper "Dynamic Routing Between Capsules".
 
 ## Visualization
 
@@ -165,6 +169,7 @@ A curated list of Python libraries used for data science.
 - [raccoon](https://github.com/rsheftel/raccoon) - DataFrame with fast insert and appends.
 - [kmodes](https://github.com/nicodv/kmodes) - k-modes and k-prototypes clustering algorithm.
 - [annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors
+- [datacleaner](https://github.com/rhiever/datacleaner) - Automatically cleans data sets and readies them for analysis.
 
 ### Time Series
 
@@ -196,6 +201,7 @@ A curated list of Python libraries used for data science.
 - [pyvips](https://github.com/jcupitt/pyvips) - Fast image processing.
 - [aeneas](https://github.com/readbeyond/aeneas) - Set of tools to automagically synchronize audio and text.
 - [ImageHash](https://github.com/JohannesBuchner/imagehash) - Image hashing.
+- [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library.
 
 ### Geolocation
 
