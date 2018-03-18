@@ -46,6 +46,7 @@ A curated list of Python libraries used for data science.
 - [modAL](https://github.com/cosmic-cortex/modAL) - Modular Active Learning framework
 - [deap](https://github.com/DEAP/deap) - Evolutionary computation framework.
 - [pyro](https://github.com/uber/pyro) - Deep universal probabilistic programming with PyTorch
+- [civisml-extensions](https://github.com/civisanalytics/civisml-extensions) - scikit-learn-compatible estimators from Civis Analytics
 
 ## Scientific
 
@@ -272,7 +273,6 @@ A curated list of Python libraries used for data science.
 - [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators.
 - [sklearn-compiledtrees](https://github.com/ajtulloch/sklearn-compiledtrees) - Compiled Decision Trees for scikit-learn
 - [Metrics](https://github.com/benhamner/Metrics) - Machine learning evaluation metrics
-- [civisml-extensions](https://github.com/civisanalytics/civisml-extensions) - scikit-learn-compatible estimators from Civis Analytics
 - [bonobo](https://github.com/python-bonobo/bonobo) - Extract Transform Load.
 - [pyemd](https://github.com/wmayner/pyemd) - Earth Mover's Distance metric.
 - [fastai](https://github.com/fastai/fastai) - The fast.ai deep learning library, lessons, and tutorials.
