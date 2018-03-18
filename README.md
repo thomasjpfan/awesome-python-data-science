@@ -62,6 +62,7 @@ A curated list of Python libraries used for data science.
 - [bcolz](https://github.com/Blosc/bcolz) - Columnar data container that can be compressed.
 - [nilearn](https://github.com/nilearn/nilearn) - NeuroImaging.
 - [patsy](https://github.com/pydata/patsy) - Describing statistical models using symbolic formulas
+- [numexpr](https://github.com/pydata/numexpr) - Fast numerical array expression evaluator
 
 ## Deep Learning Frameworks
 
