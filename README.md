@@ -186,6 +186,7 @@ A curated list of Python libraries used for data science.
 - [speechpy](https://github.com/astorfi/speechpy) - A Library for Speech Processing and Recognition.
 - [magenta](https://github.com/tensorflow/magenta) - Music and Art Generation with Machine Intelligence.
 - [librosa](https://github.com/librosa/librosa) - Audio and music analysis.
+- [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface
 
 ### Images and Video
 
