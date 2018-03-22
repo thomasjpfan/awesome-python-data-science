@@ -109,6 +109,7 @@ A curated list of Python libraries used for data science.
 - [learning-to-learn](https://github.com/deepmind/learning-to-learn) - Learning to Learn in Tensorflow.
 - [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api
 - [capsule-networks](https://github.com/gram-ai/capsule-networks) - A PyTorch implementation of the NIPS 2017 paper "Dynamic Routing Between Capsules".
+- [Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
 
 ## Visualization
 
