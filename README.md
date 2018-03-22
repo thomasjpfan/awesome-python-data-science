@@ -248,6 +248,7 @@ A curated list of Python libraries used for data science.
 - [langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library
 - [translation](https://github.com/littlecodersh/translation) - Uses web services for text translation
 - [nltk](http://www.nltk.org) - Natural Language Toolkit
+- [unidecode](https://github.com/avian2/unidecode) - ASCII transliterations of Unicode text
 
 ### Graphs
 
