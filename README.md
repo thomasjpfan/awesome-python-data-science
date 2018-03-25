@@ -286,6 +286,7 @@ A curated list of Python libraries used for data science.
 - [mlcrate](https://github.com/mxbi/mlcrate) - Handy tools and functions.
 - [pipeline](https://github.com/PipelineAI/pipeline) - Standard Runtime For Every Real-Time Machine Learning.
 - [palladium](https://github.com/ottogroup/palladium) - Framework for setting up predictive analytics services
+- [tabulate](https://bitbucket.org/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility.
 
 ## Python Tools
 
