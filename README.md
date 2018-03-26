@@ -93,12 +93,14 @@ A curated list of Python libraries used for data science.
 - [tfdeploy](https://github.com/riga/tfdeploy) - Deploy tensorflow graphs.
 - [ktext](https://github.com/hamelsmu/ktext) - Utilities for preprocessing text for deep learning with Keras.
 - [foolbox](https://github.com/bethgelab/foolbox) - Python toolbox to create adversarial examples that fool neural networks.
+- [pytorch/vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision
 
 ## Deep Learning Projects
 
 - [fairseq-py](https://github.com/facebookresearch/fairseq-py) - Sequence-to-Sequence Toolkit
 - [gradient-checkpointing](https://github.com/openai/gradient-checkpointing) - Make huge neutral nets fit in memory.
 - [Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
+- [detectorch](https://github.com/ignacio-rocco/detectorch) - detectron for PyTorch
 - [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - DeepMind's WaveNet.
 - [wtte-rnn](https://github.com/ragulpr/wtte-rnn) - WTTE-RNN a framework for churn and time to event prediction.
 - [3D-convolution-speaker-recognition](https://github.com/astorfi/3D-convolutional-speaker-recognition) - Speaker verification.
@@ -250,6 +252,7 @@ A curated list of Python libraries used for data science.
 - [translation](https://github.com/littlecodersh/translation) - Uses web services for text translation
 - [nltk](http://www.nltk.org) - Natural Language Toolkit
 - [unidecode](https://github.com/avian2/unidecode) - ASCII transliterations of Unicode text
+- [pytorch/text](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP
 
 ### Graphs
 
