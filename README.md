@@ -65,6 +65,7 @@ A curated list of Python libraries used for data science.
 - [nilearn](https://github.com/nilearn/nilearn) - NeuroImaging.
 - [patsy](https://github.com/pydata/patsy) - Describing statistical models using symbolic formulas.
 - [numexpr](https://github.com/pydata/numexpr) - Fast numerical array expression evaluator.
+- [dask](https://github.com/dask/dask) - Parallel computing with task scheduling.
 
 ## Deep Learning Frameworks
 
