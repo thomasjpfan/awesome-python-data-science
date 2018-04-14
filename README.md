@@ -244,6 +244,7 @@ A curated list of Python libraries used for data science.
 - [preprocessing](https://pronouncing.readthedocs.io/en/latest/) - Simple interface for the CMU Pronouncing Dictionary.
 - [langid](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
 - [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching.
+- [Fuzzy](https://github.com/yougov/Fuzzy) - Soundex, NYSIIS, Double Metaphone.
 - [snowball](https://github.com/snowballstem/snowball) - Snowball compiler and stemming algorithms.
 - [leven](https://github.com/semanticize/leven) - Levenshtein edit distance.
 - [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
