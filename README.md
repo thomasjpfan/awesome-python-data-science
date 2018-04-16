@@ -195,6 +195,7 @@ A curated list of Python libraries used for data science.
 - [magenta](https://github.com/tensorflow/magenta) - Music and Art Generation with Machine Intelligence.
 - [librosa](https://github.com/librosa/librosa) - Audio and music analysis.
 - [pydub](https://github.com/jiaaro/pydub) - Manipulate audio with a simple and easy high level interface.
+- [pytorch/audio](https://github.com/pytorch/audio) - simple audio I/O for pytorch.
 
 ### Images and Video
 
