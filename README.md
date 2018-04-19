@@ -261,6 +261,7 @@ A curated list of Python libraries used for data science.
 - [unidecode](https://github.com/avian2/unidecode) - ASCII transliterations of Unicode text.
 - [pytorch/text](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP.
 - [textdistance](https://github.com/orsinium/textdistance) - Compute distance between sequences.
+- [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 
 ### Graphs
 
