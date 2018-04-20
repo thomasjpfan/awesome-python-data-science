@@ -263,6 +263,9 @@ A curated list of Python libraries used for data science.
 - [pytorch/text](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP.
 - [textdistance](https://github.com/orsinium/textdistance) - Compute distance between sequences.
 - [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
+- [sent2vec](https://github.com/epfml/sent2vec) - General purpose unsupervised sentence representations.
+- [pyhunspell](https://github.com/blatinier/pyhunspell) - Python bindings for the Hunspell spellchecker engine.
+
 
 ### Graphs
 
