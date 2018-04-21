@@ -265,6 +265,7 @@ A curated list of Python libraries used for data science.
 - [flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 - [sent2vec](https://github.com/epfml/sent2vec) - General purpose unsupervised sentence representations.
 - [pyhunspell](https://github.com/blatinier/pyhunspell) - Python bindings for the Hunspell spellchecker engine.
+- [facebook/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 
 
 ### Graphs
