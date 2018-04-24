@@ -49,6 +49,7 @@ A curated list of Python libraries used for data science.
 - [pyro](https://github.com/uber/pyro) - Deep universal probabilistic programming with PyTorch.
 - [civisml-extensions](https://github.com/civisanalytics/civisml-extensions) - scikit-learn-compatible estimators from Civis Analytics.
 - [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyper-parameter optimization for sklearn.
+- [zhusuan](https://github.com/thu-ml/zhusuan) - A Library for Bayesian Deep Learning, Generative Models, Based on Tensorflow.
 
 ## Scientific
 
