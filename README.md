@@ -75,6 +75,8 @@ A curated list of Python libraries used for data science.
 - [onnx](https://github.com/onnx/onnx) - Open Neutral Network Exchange.
 - [Keras](https://keras.io) - High-level neutral networks API.
 - [tensorlayer](https://github.com/tensorlayer/tensorlayer) - A Deep Learning and Reinforcement Learning Library for Researchers and Engineers.
+- [chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning.
+- [mxnet](https://mxnet.incubator.apache.org) - Apache MXNet: A flexible and efficient library for deep learning.
 
 ## Deep Learning Tools
 
