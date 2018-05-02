@@ -107,6 +107,7 @@ A curated list of Python libraries used for data science.
 - [gradient-checkpointing](https://github.com/openai/gradient-checkpointing) - Make huge neutral nets fit in memory.
 - [Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
 - [detectorch](https://github.com/ignacio-rocco/detectorch) - detectron for PyTorch.
+- [Detectron.pytorch](https://github.com/roytseng-tw/Detectron.pytorch) - detectron for PyTorch.
 - [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - DeepMind's WaveNet.
 - [wtte-rnn](https://github.com/ragulpr/wtte-rnn) - WTTE-RNN a framework for churn and time to event prediction.
 - [3D-convolution-speaker-recognition](https://github.com/astorfi/3D-convolutional-speaker-recognition) - Speaker verification.
