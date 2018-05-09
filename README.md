@@ -314,6 +314,8 @@ A curated list of Python libraries used for data science.
 - [pipeline](https://github.com/PipelineAI/pipeline) - Standard Runtime For Every Real-Time Machine Learning.
 - [palladium](https://github.com/ottogroup/palladium) - Framework for setting up predictive analytics services.
 - [tabulate](https://bitbucket.org/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility.
+- [mara/data-integration](https://github.com/mara/data-integration) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow.
+- [airflow](https://github.com/apache/incubator-airflow) - ETL.
 
 ## Deployment
 
