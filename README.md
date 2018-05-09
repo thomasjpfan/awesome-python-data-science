@@ -100,6 +100,8 @@ A curated list of Python libraries used for data science.
 - [ktext](https://github.com/hamelsmu/ktext) - Utilities for preprocessing text for deep learning with Keras.
 - [foolbox](https://github.com/bethgelab/foolbox) - Python toolbox to create adversarial examples that fool neural networks.
 - [pytorch/vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision.
+- [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy.
+- [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
 
 ## Deep Learning Projects
 
