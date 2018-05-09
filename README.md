@@ -277,6 +277,7 @@ A curated list of Python libraries used for data science.
 - [facebook/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [textblob](https://github.com/sloria/textblob) - Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.
 - [facebook/InferSent](https://github.com/facebookresearch/InferSent) - Sentence embeddings (InferSent) and training code for NLI.
+- [nmslib](https://github.com/nmslib/nmslib) - Non-Metric Space Library.
 
 
 ### Graphs
