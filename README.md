@@ -50,6 +50,7 @@ A curated list of Python libraries used for data science.
 - [civisml-extensions](https://github.com/civisanalytics/civisml-extensions) - scikit-learn-compatible estimators from Civis Analytics.
 - [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyper-parameter optimization for sklearn.
 - [zhusuan](https://github.com/thu-ml/zhusuan) - A Library for Bayesian Deep Learning, Generative Models, Based on Tensorflow.
+- [Kaggler](https://github.com/jeongyoonlee/Kaggler) - Code for Kaggle Data Science Competitions. Includes FTRL.
 
 ## Scientific
 
