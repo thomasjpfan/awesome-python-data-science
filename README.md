@@ -174,6 +174,7 @@ A curated list of Python libraries used for data science.
 - [kmeans_smote](https://github.com/felix-last/kmeans_smote) - Oversampling for imbalanced learning based on k-means and SMOTE.
 - [pyUpSet](https://github.com/ImSoErgodic/py-upset) - UpSet suite of visualisation methods.
 - [lime](https://github.com/marcotcr/lime) -  Explaining the predictions of any machine learning classifier.
+- [pandas-summary](https://github.com/mouradmourafiq/pandas-summary) - An extension to pandas dataframes describe function.
 
 ## Feature Extraction
 
