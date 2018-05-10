@@ -103,6 +103,7 @@ A curated list of Python libraries used for data science.
 - [pytorch/vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision.
 - [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy.
 - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
+- [pytorch/ignite](https://github.com/pytorch/ignite) - High-level library to help with training neural networks in PyTorch.
 
 ## Deep Learning Projects
 
