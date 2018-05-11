@@ -178,6 +178,7 @@ A curated list of Python libraries used for data science.
 - [lime](https://github.com/marcotcr/lime) -  Explaining the predictions of any machine learning classifier.
 - [pandas-summary](https://github.com/mouradmourafiq/pandas-summary) - An extension to pandas dataframes describe function.
 - [SauceCat/PDPbox](https://github.com/SauceCat/PDPbox) - Partial dependence plot toolbox.
+- [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model.
 
 ## Feature Extraction
 
