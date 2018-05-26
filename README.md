@@ -51,6 +51,7 @@ A curated list of Python libraries used for data science.
 - [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyper-parameter optimization for sklearn.
 - [zhusuan](https://github.com/thu-ml/zhusuan) - A Library for Bayesian Deep Learning, Generative Models, Based on Tensorflow.
 - [Kaggler](https://github.com/jeongyoonlee/Kaggler) - Code for Kaggle Data Science Competitions. Includes FTRL.
+- [modAL](https://github.com/cosmic-cortex/modAL) - A modular active learning framework.
 
 ## Scientific
 
