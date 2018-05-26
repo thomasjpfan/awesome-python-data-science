@@ -328,6 +328,7 @@ A curated list of Python libraries used for data science.
 
 - [lore](https://github.com/instacart/lore) - Lore makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers.
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes.
+- [great_expectations](https://github.com/great-expectations/great_expectations) - F framework that helps teams save time and promote analytic integrity with a new twist on automated testing: pipeline tests.
 
 ## Python Tools
 
