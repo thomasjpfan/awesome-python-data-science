@@ -197,6 +197,8 @@ A curated list of Python libraries used for data science.
 - [kmodes](https://github.com/nicodv/kmodes) - k-modes and k-prototypes clustering algorithm.
 - [annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors.
 - [datacleaner](https://github.com/rhiever/datacleaner) - Automatically cleans data sets and readies them for analysis.
+- [scikit-feature](https://github.com/jundongl/scikit-feature) - Filter methods for feature selection.
+- [mifs](https://github.com/danielhomola/mifs) - Parallelized Mutual Information based Feature Selection module.
 
 ### Time Series
 
