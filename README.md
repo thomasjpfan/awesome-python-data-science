@@ -52,6 +52,7 @@ A curated list of Python libraries used for data science.
 - [zhusuan](https://github.com/thu-ml/zhusuan) - A Library for Bayesian Deep Learning, Generative Models, Based on Tensorflow.
 - [Kaggler](https://github.com/jeongyoonlee/Kaggler) - Code for Kaggle Data Science Competitions. Includes FTRL.
 - [modAL](https://github.com/cosmic-cortex/modAL) - A modular active learning framework.
+- [scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn.
 
 ## Scientific
 
@@ -180,6 +181,7 @@ A curated list of Python libraries used for data science.
 - [pandas-summary](https://github.com/mouradmourafiq/pandas-summary) - An extension to pandas dataframes describe function.
 - [SauceCat/PDPbox](https://github.com/SauceCat/PDPbox) - Partial dependence plot toolbox.
 - [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model.
+- [eli5](https://github.com/TeamHG-Memex/eli5) - Debug machine learning classifiers and explain their predictions.
 
 ## Feature Extraction
 
