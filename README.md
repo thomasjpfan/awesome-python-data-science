@@ -199,6 +199,7 @@ A curated list of Python libraries used for data science.
 - [datacleaner](https://github.com/rhiever/datacleaner) - Automatically cleans data sets and readies them for analysis.
 - [scikit-feature](https://github.com/jundongl/scikit-feature) - Filter methods for feature selection.
 - [mifs](https://github.com/danielhomola/mifs) - Parallelized Mutual Information based Feature Selection module.
+- [skggm](https://github.com/skggm/skggm) - Scikit-learn compatible estimation of general graphical models.
 
 ### Time Series
 
@@ -325,14 +326,14 @@ A curated list of Python libraries used for data science.
 - [pipeline](https://github.com/PipelineAI/pipeline) - Standard Runtime For Every Real-Time Machine Learning.
 - [palladium](https://github.com/ottogroup/palladium) - Framework for setting up predictive analytics services.
 - [tabulate](https://bitbucket.org/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility.
-- [mara/data-integration](https://github.com/mara/data-integration) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow.
-- [airflow](https://github.com/apache/incubator-airflow) - ETL.
 
 ## Deployment
 
 - [lore](https://github.com/instacart/lore) - Lore makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers.
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes.
 - [great_expectations](https://github.com/great-expectations/great_expectations) - F framework that helps teams save time and promote analytic integrity with a new twist on automated testing: pipeline tests.
+- [mara/data-integration](https://github.com/mara/data-integration) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow.
+- [airflow](https://github.com/apache/incubator-airflow) - ETL.
 
 ## Python Tools
 
