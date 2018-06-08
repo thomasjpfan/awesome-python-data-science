@@ -334,6 +334,7 @@ A curated list of Python libraries used for data science.
 - [great_expectations](https://github.com/great-expectations/great_expectations) - F framework that helps teams save time and promote analytic integrity with a new twist on automated testing: pipeline tests.
 - [mara/data-integration](https://github.com/mara/data-integration) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow.
 - [airflow](https://github.com/apache/incubator-airflow) - ETL.
+- [mlflow](https://github.com/databricks/mlflow) - Open source platform for the complete machine learning lifecycle.
 
 ## Python Tools
 
