@@ -130,6 +130,7 @@ A curated list of Python libraries used for data science.
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow.
 - [lightnet](https://github.com/explosion/lightnet) - Bringing pjreddie's DarkNet out of the shadows.
 - [chess-alpha-zero](Zeta36/chess-alpha-zero) - Chess reinforcement learning by AlphaGo Zero methods.
+- [TernausNetV2](https://github.com/ternaus/TernausNetV2) - Fully Convolutional Network for Instance Segmentation.
 
 ## Visualization
 
