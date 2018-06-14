@@ -290,6 +290,7 @@ A curated list of Python libraries used for data science.
 - [facebook/InferSent](https://github.com/facebookresearch/InferSent) - Sentence embeddings (InferSent) and training code for NLI.
 - [nmslib](https://github.com/nmslib/nmslib) - Non-Metric Space Library.
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
+- [ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 
 ### Graphs
 
