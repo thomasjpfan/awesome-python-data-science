@@ -107,6 +107,7 @@ A curated list of Python libraries used for data science.
 - [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy.
 - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
 - [pytorch/ignite](https://github.com/pytorch/ignite) - High-level library to help with training neural networks in PyTorch.
+- [NMT](http://opennmt.net) - Neural machine translation and neural sequence modeling.
 
 ## Deep Learning Projects
 
@@ -131,6 +132,7 @@ A curated list of Python libraries used for data science.
 - [lightnet](https://github.com/explosion/lightnet) - Bringing pjreddie's DarkNet out of the shadows.
 - [chess-alpha-zero](Zeta36/chess-alpha-zero) - Chess reinforcement learning by AlphaGo Zero methods.
 - [TernausNetV2](https://github.com/ternaus/TernausNetV2) - Fully Convolutional Network for Instance Segmentation.
+- [pytorch-openai-transformer-lm](https://github.com/huggingface/pytorch-openai-transformer-lm) - OpenAI's finetuned transformer language model with a script to import the weights pre-trained by OpenAI.
 
 ## Visualization
 
@@ -327,11 +329,11 @@ A curated list of Python libraries used for data science.
 - [annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors.
 - [mlcrate](https://github.com/mxbi/mlcrate) - Handy tools and functions.
 - [pipeline](https://github.com/PipelineAI/pipeline) - Standard Runtime For Every Real-Time Machine Learning.
-- [palladium](https://github.com/ottogroup/palladium) - Framework for setting up predictive analytics services.
 - [tabulate](https://bitbucket.org/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility.
 
 ## Deployment
 
+- [palladium](https://github.com/ottogroup/palladium) - Framework for setting up predictive analytics services.
 - [lore](https://github.com/instacart/lore) - Lore makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers.
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes.
 - [great_expectations](https://github.com/great-expectations/great_expectations) - F framework that helps teams save time and promote analytic integrity with a new twist on automated testing: pipeline tests.
