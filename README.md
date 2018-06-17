@@ -330,6 +330,7 @@ A curated list of Python libraries used for data science.
 - [mlcrate](https://github.com/mxbi/mlcrate) - Handy tools and functions.
 - [pipeline](https://github.com/PipelineAI/pipeline) - Standard Runtime For Every Real-Time Machine Learning.
 - [tabulate](https://bitbucket.org/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility.
+- [crayon](https://github.com/torrvision/crayon) - A language-agnostic interface to TensorBoard.
 
 ## Deployment
 
