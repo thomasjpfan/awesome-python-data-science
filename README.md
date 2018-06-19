@@ -133,6 +133,7 @@ A curated list of Python libraries used for data science.
 - [chess-alpha-zero](Zeta36/chess-alpha-zero) - Chess reinforcement learning by AlphaGo Zero methods.
 - [TernausNetV2](https://github.com/ternaus/TernausNetV2) - Fully Convolutional Network for Instance Segmentation.
 - [pytorch-openai-transformer-lm](https://github.com/huggingface/pytorch-openai-transformer-lm) - OpenAI's finetuned transformer language model with a script to import the weights pre-trained by OpenAI.
+- [DensePose](https://github.com/facebookresearch/DensePose) - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body.
 
 ## Visualization
 
