@@ -251,6 +251,7 @@ A curated list of Python libraries used for data science.
 - [OSMnx](https://github.com/gboeing/osmnx) - Street networks.
 - [reverse-geocoder](https://github.com/thampiman/reverse-geocoder) - A fast, offline reverse geocoder.
 - [pysal](https://github.com/pysal/pysal) - Spatial Analysis Library.
+- [geopandas](https://github.com/geopandas/geopandas) - Tools for geographic data.
 
 ### Web Content
 
