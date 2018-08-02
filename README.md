@@ -242,6 +242,7 @@ A curated list of Python libraries used for data science.
 - [aeneas](https://github.com/readbeyond/aeneas) - Set of tools to automagically synchronize audio and text.
 - [ImageHash](https://github.com/JohannesBuchner/imagehash) - Image hashing.
 - [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library.
+- [PyAV](https://github.com/mikeboers/PyAV) - Bindings for FFmpeg.
 
 ### Geolocation
 
