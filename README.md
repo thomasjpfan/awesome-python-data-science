@@ -189,6 +189,7 @@ A curated list of Python libraries used for data science.
 - [SauceCat/PDPbox](https://github.com/SauceCat/PDPbox) - Partial dependence plot toolbox.
 - [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model.
 - [eli5](https://github.com/TeamHG-Memex/eli5) - Debug machine learning classifiers and explain their predictions.
+- [rfpimp](https://github.com/parrt/random-forest-importances) - Permutation and drop-column importance for scikit-learn random forests.
 
 ## Feature Extraction
 
