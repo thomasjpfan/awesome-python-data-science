@@ -245,6 +245,7 @@ A curated list of Python libraries used for data science.
 - [ImageHash](https://github.com/JohannesBuchner/imagehash) - Image hashing.
 - [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library.
 - [PyAV](https://github.com/mikeboers/PyAV) - Bindings for FFmpeg.
+- [imutils](https://github.com/jrosebr1/imutils) - Convenience functions to make basic image processing operations.
 
 ### Geolocation
 
