@@ -108,6 +108,7 @@ A curated list of Python libraries used for data science.
 - [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
 - [pytorch/ignite](https://github.com/pytorch/ignite) - High-level library to help with training neural networks in PyTorch.
 - [NMT](http://opennmt.net) - Neural machine translation and neural sequence modeling.
+- [Netron](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models.
 
 ## Deep Learning Projects
 
