@@ -53,6 +53,7 @@ A curated list of Python libraries used for data science.
 - [Kaggler](https://github.com/jeongyoonlee/Kaggler) - Code for Kaggle Data Science Competitions. Includes FTRL.
 - [modAL](https://github.com/cosmic-cortex/modAL) - A modular active learning framework.
 - [scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn.
+- [dstoolbox](https://github.com/ottogroup/dstoolbox) - Tools that make working with scikit-learn and pandas easier.
 
 ## Scientific
 
