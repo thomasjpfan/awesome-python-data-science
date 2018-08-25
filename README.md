@@ -159,6 +159,7 @@ A curated list of Python libraries used for data science.
 - [ggpy](https://github.com/yhat/ggpy) - ggplot for python.
 - [mizani](https://github.com/has2k1/mizani) - scales package.
 - [bqplot](https://github.com/bloomberg/bqplot) - Plotting library for IPython/Jupyter Notebooks.
+- [PtitPrince](https://github.com/pog87/PtitPrince) - Raindrop cloud.
 
 ## AutoML
 
