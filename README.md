@@ -54,6 +54,7 @@ A curated list of Python libraries used for data science.
 - [modAL](https://github.com/cosmic-cortex/modAL) - A modular active learning framework.
 - [scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn.
 - [dstoolbox](https://github.com/ottogroup/dstoolbox) - Tools that make working with scikit-learn and pandas easier.
+- [dowhy](https://github.com/Microsoft/dowhy) - A unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
 
 ## Scientific
 
