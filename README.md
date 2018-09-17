@@ -55,6 +55,7 @@ A curated list of Python libraries used for data science.
 - [scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn.
 - [dstoolbox](https://github.com/ottogroup/dstoolbox) - Tools that make working with scikit-learn and pandas easier.
 - [dowhy](https://github.com/Microsoft/dowhy) - A unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
+- [modin](https://github.com/modin-project/modin) - Unify the way you interact with your data.
 
 ## Scientific
 
@@ -189,7 +190,7 @@ A curated list of Python libraries used for data science.
 - [elih](https://github.com/fvinas/elih) - Explain Machine Learning.
 - [kmeans_smote](https://github.com/felix-last/kmeans_smote) - Oversampling for imbalanced learning based on k-means and SMOTE.
 - [pyUpSet](https://github.com/ImSoErgodic/py-upset) - UpSet suite of visualisation methods.
-- [lime](https://github.com/marcotcr/lime) -  Explaining the predictions of any machine learning classifier.
+- [lime](https://github.com/marcotcr/lime) - Explaining the predictions of any machine learning classifier.
 - [pandas-summary](https://github.com/mouradmourafiq/pandas-summary) - An extension to pandas dataframes describe function.
 - [SauceCat/PDPbox](https://github.com/SauceCat/PDPbox) - Partial dependence plot toolbox.
 - [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model.
@@ -291,7 +292,7 @@ A curated list of Python libraries used for data science.
 - [polyglot](https://github.com/aboSamoor/polyglot) - Multilingual text NLP processing toolkit.
 - [sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [pyfasttext](https://github.com/vrasneur/pyfasttext) - Binding for fastText.
-- [python-wordsegment](https://github.com/grantjenks/python-wordsegment) -  English word segmentation.
+- [python-wordsegment](https://github.com/grantjenks/python-wordsegment) - English word segmentation.
 - [pyahocorasick](https://github.com/WojciechMula/pyahocorasick) - Exact or approximate multi-pattern string search.
 - [Wordbatch](https://github.com/anttttti/Wordbatch) - Parallel text feature extraction for machine learning.
 - [langdetect](https://github.com/Mimino666/langdetect) - Port of Google's language-detection library.
@@ -363,7 +364,7 @@ A curated list of Python libraries used for data science.
 - [pip-tools](https://github.com/nvie/pip-tools) - Keeps dependencies up to date.
 - [devpi](http://doc.devpi.net/latest/) - PyPI server and packaging/testing/release tool.
 - [Jupyter Notebook](https://jupyter.org) - Notebooks are awseome.
-- [click](https://github.com/pallets/click) -  CLI package.
+- [click](https://github.com/pallets/click) - CLI package.
 - [sacredboard](https://github.com/chovanecm/sacredboard) - Dashboard for sacred.
 - [sacred](http://sacred.readthedocs.io/en/latest/) - Reproduce computational experiments.
 - [python-flamegraph](https://github.com/evanhempel/python-flamegraph) - Statistical profiler which outputs in format suitable for FlameGraph.
