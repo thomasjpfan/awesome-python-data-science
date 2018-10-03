@@ -164,6 +164,7 @@ A curated list of Python libraries used for data science.
 - [bqplot](https://github.com/bloomberg/bqplot) - Plotting library for IPython/Jupyter Notebooks.
 - [PtitPrince](https://github.com/pog87/PtitPrince) - Raindrop cloud.
 - [joypy](https://github.com/sbebo/joypy) - Ridgeline plots.
+- [dtreeviz](https://github.com/parrt/dtreeviz) - Decision tree visualization and model interpretation.
 
 ## AutoML
 
