@@ -113,6 +113,7 @@ A curated list of Python libraries used for data science.
 - [NMT](http://opennmt.net) - Neural machine translation and neural sequence modeling.
 - [Netron](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models.
 - [gpytorch](https://github.com/cornellius-gp/gpytorch) - A highly efficient and modular implementation of Gaussian Processes in PyTorch.
+- [tensorly](https://github.com/tensorly/tensorly) - Tensor Learning in Python.
 
 ## Deep Learning Projects
 
