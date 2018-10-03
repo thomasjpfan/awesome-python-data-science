@@ -116,7 +116,7 @@ A curated list of Python libraries used for data science.
 
 ## Deep Learning Projects
 
-- [fairseq-py](https://github.com/facebookresearch/fairseq-py) - Sequence-to-Sequence Toolkit.
+- [fairseq](https://github.com/pytorch/fairseq) - Sequence-to-Sequence Toolkit.
 - [gradient-checkpointing](https://github.com/openai/gradient-checkpointing) - Make huge neutral nets fit in memory.
 - [Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
 - [detectorch](https://github.com/ignacio-rocco/detectorch) - detectron for PyTorch.
