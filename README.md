@@ -74,6 +74,7 @@ A curated list of Python libraries used for data science.
 - [numexpr](https://github.com/pydata/numexpr) - Fast numerical array expression evaluator.
 - [dask](https://github.com/dask/dask) - Parallel computing with task scheduling.
 - [or-tools](https://github.com/google/or-tools) - Google's Operations Research tools. Classical CS algorithms.
+- [cvxpy](https://github.com/cvxgrp/cvxpy) - Python-embedded modeling language for convex optimization problems.
 
 ## Deep Learning Frameworks
 
