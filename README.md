@@ -144,6 +144,7 @@ A curated list of Python libraries used for data science.
 - [DensePose](https://github.com/facebookresearch/DensePose) - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body.
 - [pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) - PyTorch implementation of the YOLO v3 object detection algorithm.
 - [CoordConv-pytorch](https://github.com/mkocabas/CoordConv-pytorch) - Pytorch implementation of CoordConv.
+- [PyTorch-NEAT](https://github.com/uber-research/PyTorch-NEAT) - NeuroEvolution of Augmenting Topologie.
 
 ## Visualization
 
