@@ -384,3 +384,4 @@ A curated list of Python libraries used for data science.
 
 - [gain](https://github.com/gaojiuli/gain) - Web crawling framework based on asyncio.
 - [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
+- [camelot](https://github.com/socialcopsdev/camelot) - Camelot: PDF Table Extraction for Humans.
