@@ -17,6 +17,7 @@ A curated list of Python libraries used for data science.
 - [Misc](#misc)
 - [Deployment](#Deployment)
 - [Python Tools](#python-tools)
+- [Data Gathering](#data-gathering)
 
 ## Machine Learning Frameworks
 
@@ -315,6 +316,7 @@ A curated list of Python libraries used for data science.
 - [google/sentencepiece](https://github.com/google/sentencepiece) - Unsupervised text tokenizer for Neural Network-based text generation.
 - [ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 - [fletcher](https://github.com/xhochy/fletcher) - Pandas ExtensionDType/Array backed by Apache Arrow.
+- [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy.
 
 ### Graphs
 
@@ -352,6 +354,7 @@ A curated list of Python libraries used for data science.
 - [pipeline](https://github.com/PipelineAI/pipeline) - Standard Runtime For Every Real-Time Machine Learning.
 - [tabulate](https://bitbucket.org/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility.
 - [crayon](https://github.com/torrvision/crayon) - A language-agnostic interface to TensorBoard.
+- [faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 
 ## Deployment
 
@@ -375,3 +378,8 @@ A curated list of Python libraries used for data science.
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely.
 - [memory_profiler](https://pypi.python.org/pypi/memory_profiler) - monitoring memory usage of a python program.
 - [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling.
+
+## Data Gathering
+
+- [gain](https://github.com/gaojiuli/gain) - Web crawling framework based on asyncio.
+- [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
