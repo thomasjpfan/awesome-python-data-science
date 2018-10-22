@@ -278,6 +278,7 @@ A curated list of Python libraries used for data science.
 
 ### Text/NLP
 
+- [BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation.
 - [gensim](https://github.com/piskvorky/gensim) - Topic Modeling.
 - [pattern](https://github.com/clips/pattern) - Web ining module.
 - [probablepeople](https://github.com/datamade/probablepeople) - Parsing unstructured western names into name components.
@@ -379,6 +380,7 @@ A curated list of Python libraries used for data science.
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely.
 - [memory_profiler](https://pypi.python.org/pypi/memory_profiler) - monitoring memory usage of a python program.
 - [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling.
+- [parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
 
 ## Data Gathering
 
