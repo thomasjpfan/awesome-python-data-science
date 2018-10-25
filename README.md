@@ -145,6 +145,7 @@ A curated list of Python libraries used for data science.
 - [pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) - PyTorch implementation of the YOLO v3 object detection algorithm.
 - [CoordConv-pytorch](https://github.com/mkocabas/CoordConv-pytorch) - Pytorch implementation of CoordConv.
 - [PyTorch-NEAT](https://github.com/uber-research/PyTorch-NEAT) - NeuroEvolution of Augmenting Topologie.
+- [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) - Fast, modular reference implementation of Semantic Segmentation and Object Detection algorithm in PyTorch.
 
 ## Visualization
 
