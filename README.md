@@ -146,6 +146,8 @@ A curated list of Python libraries used for data science.
 - [CoordConv-pytorch](https://github.com/mkocabas/CoordConv-pytorch) - Pytorch implementation of CoordConv.
 - [PyTorch-NEAT](https://github.com/uber-research/PyTorch-NEAT) - NeuroEvolution of Augmenting Topologie.
 - [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) - Fast, modular reference implementation of Semantic Segmentation and Object Detection algorithm in PyTorch.
+- [Global_Convolutional_Network](https://github.com/SConsul/Global_Convolutional_Network) - GCN architecture for sematic segmentation.
+- [LovaszSoftmax](https://github.com/bermanmaxim/LovaszSoftmax) - Lovász-Softmax loss.
 
 ## Visualization
 
