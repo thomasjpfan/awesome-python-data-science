@@ -281,6 +281,7 @@ A curated list of Python libraries used for data science.
 ### Text/NLP
 
 - [BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation.
+- [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) - PyTorch version of Google AI's BERT model with script to load Google's pre-trained models.
 - [gensim](https://github.com/piskvorky/gensim) - Topic Modeling.
 - [pattern](https://github.com/clips/pattern) - Web ining module.
 - [probablepeople](https://github.com/datamade/probablepeople) - Parsing unstructured western names into name components.
