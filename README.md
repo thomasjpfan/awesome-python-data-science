@@ -228,6 +228,7 @@ A curated list of Python libraries used for data science.
 - [skggm](https://github.com/skggm/skggm) - Scikit-learn compatible estimation of general graphical models.
 - [dirty_cat](https://dirty-cat.github.io/stable/index.html) - Encoding methods for dirty categorical variables.
 - [Impyute](https://github.com/eltonlaw/impyute) - Data imputations library to preprocess datasets with missing data.
+- [eif](https://github.com/sahandha/eif) - Extended Isolation Forest for Anomaly Detection.
 
 ### Time Series
 
