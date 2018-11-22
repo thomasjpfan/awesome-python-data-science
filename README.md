@@ -327,6 +327,7 @@ A curated list of Python libraries used for data science.
 - [ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 - [fletcher](https://github.com/xhochy/fletcher) - Pandas ExtensionDType/Array backed by Apache Arrow.
 - [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy.
+- [hmtl](https://github.com/huggingface/hmtl) - Hierarchical Multi-Task Learning - A State-of-the-Art neural network model for several NLP tasks based on PyTorch and AllenNLP.
 
 ### Graphs
 
