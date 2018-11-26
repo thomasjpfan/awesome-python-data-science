@@ -229,6 +229,7 @@ A curated list of Python libraries used for data science.
 - [dirty_cat](https://dirty-cat.github.io/stable/index.html) - Encoding methods for dirty categorical variables.
 - [Impyute](https://github.com/eltonlaw/impyute) - Data imputations library to preprocess datasets with missing data.
 - [eif](https://github.com/sahandha/eif) - Extended Isolation Forest for Anomaly Detection.
+- [featexp](https://github.com/abhayspawar/featexp) - Feature exploration for supervised learning.
 
 ### Time Series
 
