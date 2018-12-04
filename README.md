@@ -117,6 +117,7 @@ A curated list of Python libraries used for data science.
 - [Netron](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models.
 - [gpytorch](https://github.com/cornellius-gp/gpytorch) - A highly efficient and modular implementation of Gaussian Processes in PyTorch.
 - [tensorly](https://github.com/tensorly/tensorly) - Tensor Learning in Python.
+- [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented.
 
 ## Deep Learning Projects
 
