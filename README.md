@@ -58,6 +58,7 @@ A curated list of Python libraries used for data science.
 - [dowhy](https://github.com/Microsoft/dowhy) - A unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
 - [modin](https://github.com/modin-project/modin) - Unify the way you interact with your data.
 - [pyomo](https://github.com/Pyomo/pyomo) - Python Optimization MOdels.
+- [pymc-learn](https://github.com/pymc-learn/pymc-learn) - Practical probabilistic machine learning.
 
 ## Scientific
 
