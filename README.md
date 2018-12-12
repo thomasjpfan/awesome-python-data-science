@@ -120,6 +120,7 @@ A curated list of Python libraries used for data science.
 - [tensorly](https://github.com/tensorly/tensorly) - Tensor Learning in Python.
 - [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented.
 - [hiddenlayer](https://github.com/waleedka/hiddenlayer) - Neural network graphs and training metrics for PyTorch, Tensorflow, and Keras.
+- [dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
 
 ## Deep Learning Projects
 
