@@ -181,6 +181,7 @@ A curated list of Python libraries used for data science.
 
 ## AutoML
 
+- [Nevergrad](https://github.com/facebookresearch/nevergrad) - Gradient-free optimization.
 - [featuretools](https://github.com/Featuretools/featuretools) - Automated feature engineering.
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated machine learning.
 - [tpot](https://github.com/EpistasisLab/tpot) - Automated machine learning.
