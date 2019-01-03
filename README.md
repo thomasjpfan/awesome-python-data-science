@@ -336,6 +336,7 @@ A curated list of Python libraries used for data science.
 - [textacy](https://github.com/chartbeat-labs/textacy) - NLP, before and after spaCy.
 - [hmtl](https://github.com/huggingface/hmtl) - Hierarchical Multi-Task Learning - A State-of-the-Art neural network model for several NLP tasks based on PyTorch and AllenNLP.
 - [pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch.
+- [flair](https://github.com/zalandoresearch/flair) - A very simple framework for state-of-the-art Natural Language Processing.
 
 ### Graphs
 
