@@ -215,6 +215,7 @@ A curated list of Python libraries used for data science.
 - [rfpimp](https://github.com/parrt/random-forest-importances) - Permutation and drop-column importance for scikit-learn random forests.
 - [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines made easy.
 - [pycm](https://github.com/sepandhaghighi/pycm) - Multi-class confusion matrix library in Python.
+- [great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 
 ## Feature Extraction
 
