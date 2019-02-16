@@ -153,6 +153,7 @@ A curated list of Python libraries used for data science.
 - [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) - Fast, modular reference implementation of Semantic Segmentation and Object Detection algorithm in PyTorch.
 - [Global_Convolutional_Network](https://github.com/SConsul/Global_Convolutional_Network) - GCN architecture for sematic segmentation.
 - [LovaszSoftmax](https://github.com/bermanmaxim/LovaszSoftmax) - Lovász-Softmax loss.
+- [ludwing](https://github.com/uber/ludwig) - Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
 
 ## Visualization
 
