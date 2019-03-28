@@ -247,6 +247,7 @@ A curated list of Python libraries used for data science.
 - [PyFlux](https://github.com/RJT1990/pyflux) - Time series library for Python.
 - [prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts.
 - [tsfresh](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
+- [tslearn](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data.
 
 ### Audio
 
