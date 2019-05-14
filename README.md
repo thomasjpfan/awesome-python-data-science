@@ -59,6 +59,7 @@ A curated list of Python libraries used for data science.
 - [modin](https://github.com/modin-project/modin) - Unify the way you interact with your data.
 - [pyomo](https://github.com/Pyomo/pyomo) - Python Optimization MOdels.
 - [pymc-learn](https://github.com/pymc-learn/pymc-learn) - Practical probabilistic machine learning.
+- [BAMBI](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface.
 
 ## Scientific
 
@@ -297,6 +298,7 @@ A curated list of Python libraries used for data science.
 
 ### Text/NLP
 
+- [BlingFire](https://github.com/Microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
 - [BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation.
 - [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) - PyTorch version of Google AI's BERT model with script to load Google's pre-trained models.
 - [gensim](https://github.com/piskvorky/gensim) - Topic Modeling.
