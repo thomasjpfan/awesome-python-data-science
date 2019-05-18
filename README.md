@@ -218,6 +218,7 @@ A curated list of Python libraries used for data science.
 - [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines made easy.
 - [pycm](https://github.com/sepandhaghighi/pycm) - Multi-class confusion matrix library in Python.
 - [great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+- [innvestigate](https://github.com/albermax/innvestigate) - A toolbox to iNNvestigate neural networks' predictions.
 
 ## Feature Extraction
 
