@@ -242,6 +242,7 @@ A curated list of Python libraries used for data science.
 - [Impyute](https://github.com/eltonlaw/impyute) - Data imputations library to preprocess datasets with missing data.
 - [eif](https://github.com/sahandha/eif) - Extended Isolation Forest for Anomaly Detection.
 - [featexp](https://github.com/abhayspawar/featexp) - Feature exploration for supervised learning.
+- [feature_engine](https://github.com/solegalli/feature_engine) - Feature engineering package with sklearn like functionality.
 
 ### Time Series
 
