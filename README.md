@@ -388,6 +388,7 @@ A curated list of Python libraries used for data science.
 - [tabulate](https://bitbucket.org/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility.
 - [crayon](https://github.com/torrvision/crayon) - A language-agnostic interface to TensorBoard.
 - [faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
+- [neurtu](https://github.com/symerio/neurtu) - A Python package for parametric benchmarks.
 
 ## Deployment
 
