@@ -390,6 +390,7 @@ A curated list of Python libraries used for data science.
 - [crayon](https://github.com/torrvision/crayon) - A language-agnostic interface to TensorBoard.
 - [faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [neurtu](https://github.com/symerio/neurtu) - A Python package for parametric benchmarks.
+- [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
 
 ## Deployment
 
