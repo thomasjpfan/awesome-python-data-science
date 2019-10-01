@@ -221,6 +221,7 @@ A curated list of Python libraries used for data science.
 - [innvestigate](https://github.com/albermax/innvestigate) - A toolbox to iNNvestigate neural networks' predictions.
 - [alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
 - [InterpretML](https://github.com/microsoft/interpret) - Fit interpretable models. Explain blackbox machine learning.
+- [cleanlab](https://github.com/cgnorthcutt/cleanlab) - Finding label errors in datasets and learning with noisy labels.
 
 ## Feature Extraction
 
