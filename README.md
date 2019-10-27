@@ -60,6 +60,7 @@ A curated list of Python libraries used for data science.
 - [pyomo](https://github.com/Pyomo/pyomo) - Python Optimization MOdels.
 - [pymc-learn](https://github.com/pymc-learn/pymc-learn) - Practical probabilistic machine learning.
 - [BAMBI](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface.
+- [pymc4](https://github.com/pymc-devs/pymc4) - A high-level probabilistic programming interface for TensorFlow Probability.
 
 ## Scientific
 
