@@ -157,6 +157,7 @@ A curated list of Python libraries used for data science.
 - [Global_Convolutional_Network](https://github.com/SConsul/Global_Convolutional_Network) - GCN architecture for sematic segmentation.
 - [LovaszSoftmax](https://github.com/bermanmaxim/LovaszSoftmax) - Lovász-Softmax loss.
 - [ludwing](https://github.com/uber/ludwig) - Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
+- [gen-efficientnet-pytorch](https://github.com/rwightman/gen-efficientnet-pytorch) - Pretrained EfficientNet, MixNet, MobileNetV3, MNASNet A1 and B1, FBNet, Single-Path NAS.
 
 ## Visualization
 
