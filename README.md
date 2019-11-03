@@ -124,6 +124,7 @@ A curated list of Python libraries used for data science.
 - [hiddenlayer](https://github.com/waleedka/hiddenlayer) - Neural network graphs and training metrics for PyTorch, Tensorflow, and Keras.
 - [dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
 - [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) - Segmentation models with pretrained backbones.
+- [pytorch-lightning](https://github.com/williamFalcon/pytorch-lightning) - The lightweight PyTorch wrapper.
 
 ## Deep Learning Projects
 
