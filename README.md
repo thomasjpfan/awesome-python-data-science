@@ -422,6 +422,7 @@ A curated list of Python libraries used for data science.
 - [memory_profiler](https://pypi.python.org/pypi/memory_profiler) - monitoring memory usage of a python program.
 - [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling.
 - [parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
+- [CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - CleverCSV is a Python package for handling messy CSV files
 
 ## Data Gathering
 
