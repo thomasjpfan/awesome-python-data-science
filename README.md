@@ -227,6 +227,7 @@ A curated list of Python libraries used for data science.
 - [alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
 - [InterpretML](https://github.com/microsoft/interpret) - Fit interpretable models. Explain blackbox machine learning.
 - [cleanlab](https://github.com/cgnorthcutt/cleanlab) - Finding label errors in datasets and learning with noisy labels.
+- [dtale](https://github.com/man-group/dtale) - Flask/React client for visualizing pandas data structures
 
 ## Feature Extraction
 
