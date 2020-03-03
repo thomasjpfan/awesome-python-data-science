@@ -360,6 +360,7 @@ A curated list of Python libraries used for data science.
 - [flair](https://github.com/zalandoresearch/flair) - A very simple framework for state-of-the-art Natural Language Processing.
 - [LASER](https://github.com/facebookresearch/LASER) - Language-Agnostic SEntence Representations.
 - [transformer-xl](https://github.com/kimiyoung/transformer-xl) - Attentive Language Models Beyond a Fixed-Length Context.
+- [textstat](https://github.com/shivam5992/textstat) - Calculate readability statistics of a text object - paragraphs, sentences, articles.
 
 ### Graphs
 
