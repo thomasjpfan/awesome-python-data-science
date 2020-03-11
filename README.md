@@ -228,6 +228,7 @@ A curated list of Python libraries used for data science.
 - [InterpretML](https://github.com/microsoft/interpret) - Fit interpretable models. Explain blackbox machine learning.
 - [cleanlab](https://github.com/cgnorthcutt/cleanlab) - Finding label errors in datasets and learning with noisy labels.
 - [dtale](https://github.com/man-group/dtale) - Flask/React client for visualizing pandas data structures
+- [dabl](https://github.com/dabl/dabl) - Data Analysis Baseline Library
 
 ## Feature Extraction
 
