@@ -402,6 +402,7 @@ A curated list of Python libraries used for data science.
 - [faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [neurtu](https://github.com/symerio/neurtu) - A Python package for parametric benchmarks.
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
+- [pyprojroot](https://github.com/chendaniely/pyprojroot) - Finding project directories in Python.
 
 ## Deployment
 
