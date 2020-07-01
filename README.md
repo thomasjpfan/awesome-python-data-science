@@ -225,7 +225,7 @@ A curated list of Python libraries used for data science.
 - [great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
 - [innvestigate](https://github.com/albermax/innvestigate) - A toolbox to iNNvestigate neural networks' predictions.
 - [alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
-- [InterpretML](https://github.com/microsoft/interpret) - Fit interpretable models. Explain blackbox machine learning.
+- [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
 - [cleanlab](https://github.com/cgnorthcutt/cleanlab) - Finding label errors in datasets and learning with noisy labels.
 - [dtale](https://github.com/man-group/dtale) - Flask/React client for visualizing pandas data structures
 - [dabl](https://github.com/dabl/dabl) - Data Analysis Baseline Library
