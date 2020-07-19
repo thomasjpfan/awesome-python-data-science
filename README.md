@@ -265,6 +265,7 @@ A curated list of Python libraries used for data science.
 - [tslearn](https://github.com/rtavenar/tslearn) - Machine learning toolkit dedicated to time-series data.
 - [pyts](https://github.com/johannfaouzi/pyts) - A Python package for time series transformation and classification.
 - [sktime](https://github.com/alan-turing-institute/sktime) - A scikit-learn compatible Python toolbox for learning with time series data.
+- [stumpy](https://github.com/TDAmeritrade/stumpy) - Matrix profiles.
 
 ### Audio
 
