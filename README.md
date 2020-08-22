@@ -57,6 +57,7 @@ A curated list of Python libraries used for data science.
 - [BAMBI](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface.
 - [pymc4](https://github.com/pymc-devs/pymc4) - A high-level probabilistic programming interface for TensorFlow Probability.
 - [combo](https://github.com/yzhao062/combo) - A Python Toolbox for Machine Learning Model Combination.
+- [fastai](https://github.com/fastai/fastai) - The fast.ai deep learning library, lessons, and tutorials.
 
 ## Scientific
 
@@ -173,7 +174,6 @@ A curated list of Python libraries used for data science.
 - [cufflinks](https://github.com/santosjorge/cufflinks) - Productivity Tools for Plotly + Pandas.
 - [scatterText](https://github.com/JasonKessler/scattertext) - Visualizations of how language differs among document types.
 - [plotnine](https://github.com/has2k1/plotnine) - ggplot for python.
-- [ggpy](https://github.com/yhat/ggpy) - ggplot for python.
 - [mizani](https://github.com/has2k1/mizani) - scales package.
 - [bqplot](https://github.com/bloomberg/bqplot) - Plotting library for IPython/Jupyter Notebooks.
 - [PtitPrince](https://github.com/pog87/PtitPrince) - Raindrop cloud.
@@ -218,7 +218,6 @@ A curated list of Python libraries used for data science.
 - [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines made easy.
 - [pycm](https://github.com/sepandhaghighi/pycm) - Multi-class confusion matrix library in Python.
 - [great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-- [innvestigate](https://github.com/albermax/innvestigate) - A toolbox to iNNvestigate neural networks' predictions.
 - [alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
 - [InterpretML](https://github.com/interpretml/interpret) - Fit interpretable models. Explain blackbox machine learning.
 - [cleanlab](https://github.com/cgnorthcutt/cleanlab) - Finding label errors in datasets and learning with noisy labels.
@@ -285,7 +284,6 @@ A curated list of Python libraries used for data science.
 - [face_recognition](https://github.com/ageitgey/face_recognition) - Facial recognition.
 - [imgaug](https://github.com/aleju/imgaug) - Image augmentation.
 - [pyvips](https://github.com/jcupitt/pyvips) - Fast image processing.
-- [aeneas](https://github.com/readbeyond/aeneas) - Set of tools to automagically synchronize audio and text.
 - [ImageHash](https://github.com/JohannesBuchner/imagehash) - Image hashing.
 - [Augmentor](https://github.com/mdbloice/Augmentor) - Image augmentation library.
 - [PyAV](https://github.com/mikeboers/PyAV) - Bindings for FFmpeg.
@@ -364,9 +362,6 @@ A curated list of Python libraries used for data science.
 
 - [louvain](https://github.com/taynaud/python-louvain) - Louvain Community Detection.
 
-### Time
-
-- [delorean](https://github.com/myusuf3/delorean) - Time Travel Made Easy.
 
 ### Ranking/Recommender
 
@@ -383,35 +378,34 @@ A curated list of Python libraries used for data science.
 
 ## Misc
 
-- [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators.
-- [sklearn-compiledtrees](https://github.com/ajtulloch/sklearn-compiledtrees) - Compiled Decision Trees for scikit-learn.
+- [great_expectations](https://github.com/great-expectations/great_expectations) - F framework that helps teams save time and promote analytic integrity with a new twist on automated testing: pipeline tests.
 - [Metrics](https://github.com/benhamner/Metrics) - Machine learning evaluation metrics.
-- [bonobo](https://github.com/python-bonobo/bonobo) - Extract Transform Load.
 - [pyemd](https://github.com/wmayner/pyemd) - Earth Mover's Distance metric.
-- [fastai](https://github.com/fastai/fastai) - The fast.ai deep learning library, lessons, and tutorials.
 - [mmh3](https://github.com/hajimes/mmh3) - MurmurHash3, a set of fast and robust hash functions.
 - [fbpca](https://github.com/facebook/fbpca) - Fast Randomized PCA/SVD.
 - [annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors.
-- [mlcrate](https://github.com/mxbi/mlcrate) - Handy tools and functions.
 - [pipeline](https://github.com/PipelineAI/pipeline) - Standard Runtime For Every Real-Time Machine Learning.
 - [tabulate](https://bitbucket.org/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility.
 - [crayon](https://github.com/torrvision/crayon) - A language-agnostic interface to TensorBoard.
 - [faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [neurtu](https://github.com/symerio/neurtu) - A Python package for parametric benchmarks.
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
+- [filprofiler](https://github.com/pythonspeed/filprofiler) -
+Fil a memory profiler designed for data processing applications.
 - [pyprojroot](https://github.com/chendaniely/pyprojroot) - Finding project directories in Python.
 
 ## Deployment
 
 - [lore](https://github.com/instacart/lore) - Lore makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers.
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes.
-- [great_expectations](https://github.com/great-expectations/great_expectations) - F framework that helps teams save time and promote analytic integrity with a new twist on automated testing: pipeline tests.
-- [mara/data-integration](https://github.com/mara/data-integration) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow.
 - [airflow](https://github.com/apache/incubator-airflow) - ETL.
 - [mlflow](https://github.com/databricks/mlflow) - Open source platform for the complete machine learning lifecycle.
+- [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators.
+- [sklearn-compiledtrees](https://github.com/ajtulloch/sklearn-compiledtrees) - Compiled Decision Trees for scikit-learn.
 
 ## Python Tools
 
+- [delorean](https://github.com/myusuf3/delorean) - Time Travel Made Easy.
 - [pip-tools](https://github.com/nvie/pip-tools) - Keeps dependencies up to date.
 - [devpi](http://doc.devpi.net/latest/) - PyPI server and packaging/testing/release tool.
 - [Jupyter Notebook](https://jupyter.org) - Notebooks are awseome.
