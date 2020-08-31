@@ -58,6 +58,7 @@ A curated list of Python libraries used for data science.
 - [pymc4](https://github.com/pymc-devs/pymc4) - A high-level probabilistic programming interface for TensorFlow Probability.
 - [combo](https://github.com/yzhao062/combo) - A Python Toolbox for Machine Learning Model Combination.
 - [fastai](https://github.com/fastai/fastai) - The fast.ai deep learning library, lessons, and tutorials.
+- [pycaret](https://github.com/pycaret/pycaret) -  Low-code machine learning library in Python.
 
 ## Scientific
 
