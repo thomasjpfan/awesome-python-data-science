@@ -426,3 +426,4 @@ Fil a memory profiler designed for data processing applications.
 - [gain](https://github.com/gaojiuli/gain) - Web crawling framework based on asyncio.
 - [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
 - [camelot](https://github.com/socialcopsdev/camelot) - Camelot: PDF Table Extraction for Humans.
+- [newspaper3k](https://newspaper.readthedocs.io/en/latest/) - Article scraping & curation.
