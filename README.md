@@ -365,6 +365,10 @@ A curated list of Python libraries used for data science.
 - [louvain](https://github.com/taynaud/python-louvain) - Louvain Community Detection.
 
 
+### Outlier and Anomaly Detection
+
+- [pyod](https://github.com/yzhao062/pyod) - Comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data.
+
 ### Ranking/Recommender
 
 - [Surprise](https://github.com/NicolasHug/Surprise) - Analyzing recommender systems.
@@ -426,4 +430,3 @@ Fil a memory profiler designed for data processing applications.
 - [gain](https://github.com/gaojiuli/gain) - Web crawling framework based on asyncio.
 - [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
 - [camelot](https://github.com/socialcopsdev/camelot) - Camelot: PDF Table Extraction for Humans.
-- [newspaper3k](https://newspaper.readthedocs.io/en/latest/) - Article scraping & curation.
