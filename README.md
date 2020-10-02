@@ -75,6 +75,8 @@ A curated list of Python libraries used for data science.
 - [nilearn](https://github.com/nilearn/nilearn) - NeuroImaging.
 - [patsy](https://github.com/pydata/patsy) - Describing statistical models using symbolic formulas.
 - [numexpr](https://github.com/pydata/numexpr) - Fast numerical array expression evaluator.
+- [bottleneck](https://github.com/pydata/bottleneck) - Fast NaN-aware NumPy array functions.
+
 - [dask](https://github.com/dask/dask) - Parallel computing with task scheduling.
 - [or-tools](https://github.com/google/or-tools) - Google's Operations Research tools. Classical CS algorithms.
 - [cvxpy](https://github.com/cvxgrp/cvxpy) - Python-embedded modeling language for convex optimization problems.
@@ -394,10 +396,6 @@ A curated list of Python libraries used for data science.
 - [tabulate](https://bitbucket.org/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility.
 - [crayon](https://github.com/torrvision/crayon) - A language-agnostic interface to TensorBoard.
 - [faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
-- [neurtu](https://github.com/symerio/neurtu) - A Python package for parametric benchmarks.
-- [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
-- [filprofiler](https://github.com/pythonspeed/filprofiler) -
-Fil a memory profiler designed for data processing applications.
 - [pyprojroot](https://github.com/chendaniely/pyprojroot) - Finding project directories in Python.
 
 ## Deployment
@@ -420,10 +418,18 @@ Fil a memory profiler designed for data processing applications.
 - [sacred](http://sacred.readthedocs.io/en/latest/) - Reproduce computational experiments.
 - [python-flamegraph](https://github.com/evanhempel/python-flamegraph) - Statistical profiler which outputs in format suitable for FlameGraph.
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely.
-- [memory_profiler](https://pypi.python.org/pypi/memory_profiler) - monitoring memory usage of a python program.
-- [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling.
 - [parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
 - [CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - CleverCSV is a Python package for handling messy CSV files
+
+
+## Profilers
+- [memory_profiler](https://pypi.python.org/pypi/memory_profiler) - monitoring memory usage of a python program.
+- [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling.
+- [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
+- [filprofiler](https://github.com/pythonspeed/filprofiler) -
+Fil a memory profiler designed for data processing applications.
+- [snakeviz](https://github.com/jiffyclub/snakeviz) - SnakeViz is a viewer for Python profiling data that runs as a web application in your browser.
+- [neurtu](https://github.com/symerio/neurtu) - A Python package for parametric benchmarks.
 
 ## Data Gathering
 
