@@ -224,6 +224,7 @@ A curated list of Python libraries used for data science.
 - [cleanlab](https://github.com/cgnorthcutt/cleanlab) - Finding label errors in datasets and learning with noisy labels.
 - [dtale](https://github.com/man-group/dtale) - Flask/React client for visualizing pandas data structures
 - [dabl](https://github.com/dabl/dabl) - Data Analysis Baseline Library
+- [XAI](https://github.com/EthicalML/xai) - XAI - An eXplainability toolbox for machine learning
 
 ## Feature Extraction
 
