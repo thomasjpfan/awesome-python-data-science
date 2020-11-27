@@ -226,6 +226,7 @@ A curated list of Python libraries used for data science.
 - [dabl](https://github.com/dabl/dabl) - Data Analysis Baseline Library
 - [XAI](https://github.com/EthicalML/xai) - XAI - An eXplainability toolbox for machine learning
 - [explainerdashboard](https://github.com/oegedijk/explainerdashboard) - This package makes it convenient to quickly deploy a dashboard web app that explains the workings of a (scikit-learn compatible) machine learning model.
+- [alibi-detect](https://github.com/SeldonIO/alibi-detect) - Open source Python library focused on outlier, adversarial and drift detection. The package aims to cover both online and offline detectors for tabular data, text, images and time series.
 
 ## Feature Extraction
 
