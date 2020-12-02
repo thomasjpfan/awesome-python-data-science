@@ -266,6 +266,7 @@ A curated list of Python libraries used for data science.
 - [sktime](https://github.com/alan-turing-institute/sktime) - A scikit-learn compatible Python toolbox for learning with time series data.
 - [stumpy](https://github.com/TDAmeritrade/stumpy) - Matrix profiles.
 - [luminaire](https://github.com/zillow/luminaire) - ML driven solutions for monitoring time series data.
+- [NeuralProphet](https://github.com/ourownstory/neural_prophet) - A Neural Network based Time-Series model, inspired by Facebook Prophet and AR-Net, built on PyTorch.
 
 ### Audio
 
