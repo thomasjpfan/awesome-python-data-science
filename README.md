@@ -123,6 +123,7 @@ A curated list of Python libraries used for data science.
 - [dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
 - [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) - Segmentation models with pretrained backbones.
 - [pytorch-lightning](https://github.com/williamFalcon/pytorch-lightning) - The lightweight PyTorch wrapper.
+- [lightly](https://docs.lightly.ai/index.html) - Lightly is a computer vision framework for self-supervised learning.
 
 ## Deep Learning Projects
 
