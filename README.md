@@ -434,6 +434,7 @@ Fil a memory profiler designed for data processing applications.
 - [diagrams](https://github.com/mingrammer/diagrams) -
 - [scalene](https://github.com/emeryberger/scalene) - High-performance CPU and memory profiler for Python.
 - [hydra](https://hydra.cc) - Framework for elegantly configuring complex applications.
+- [Typer](https://github.com/tiangolo/typer) - Build CLIs with type hints.
 
 ## Data Gathering
 
