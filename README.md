@@ -431,6 +431,9 @@ Fil a memory profiler designed for data processing applications.
 - [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling.
 - [parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
 - [CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - CleverCSV is a Python package for handling messy CSV files
+- [diagrams](https://github.com/mingrammer/diagrams) -
+- [scalene](https://github.com/emeryberger/scalene) - High-performance CPU and memory profiler for Python.
+- [hydra](https://hydra.cc) - Framework for elegantly configuring complex applications.
 
 ## Data Gathering
 
