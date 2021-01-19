@@ -406,6 +406,7 @@ A curated list of Python libraries used for data science.
 - [filprofiler](https://github.com/pythonspeed/filprofiler) -
 Fil a memory profiler designed for data processing applications.
 - [pyprojroot](https://github.com/chendaniely/pyprojroot) - Finding project directories in Python.
+- [datasette](https://datasette.io) - An open source multi-tool for exploring and publishing data.
 
 ## Deployment
 
