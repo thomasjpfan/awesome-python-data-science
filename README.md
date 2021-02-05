@@ -255,6 +255,7 @@ A curated list of Python libraries used for data science.
 - [stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library that can be used for a variety of time series data mining tasks.
 - [n2](https://github.com/kakao/n2) - Lightweight approximate Nearest Neighbor library which runs faster even with large datasets.
 - [compressio](https://github.com/dylan-profiler/compressio) - Compressio provides lossless in-memory compression of pandas DataFrames and Series.
+- [Pandarallel](https://github.com/nalepae/pandarallel) - Parallel pandas.
 
 ### Time Series
 
