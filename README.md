@@ -408,6 +408,7 @@ A curated list of Python libraries used for data science.
 Fil a memory profiler designed for data processing applications.
 - [pyprojroot](https://github.com/chendaniely/pyprojroot) - Finding project directories in Python.
 - [datasette](https://datasette.io) - An open source multi-tool for exploring and publishing data.
+- [viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 
 ## Deployment
 
