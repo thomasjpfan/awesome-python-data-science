@@ -1,4 +1,4 @@
-# Awsome Python Data Science
+# Awesome Python Data Science
 
 A curated list of Python libraries used for data science.
 
@@ -32,18 +32,12 @@ A curated list of Python libraries used for data science.
 - [dask-ml](https://github.com/dask/dask-ml) - Distributed and parallel machine learning.
 - [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Perform under sampling and over sampling.
 - [lightning](https://github.com/scikit-learn-contrib/lightning) - Large-scale linear models.
-- [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise) - Wrapper for vowpal_wabbit.
 - [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a `scipy.optimize` interface.
 - [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - Global optimization with gaussian processes.
 - [gplearn](https://github.com/trevorstephens/gplearn) - Genetic Programming.
-- [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - Scikit-learn based module for multi-label.
-- [mlens](https://github.com/flennerhag/mlens) - ML-Ensemble high performance ensemble learning.
-- [speedml](https://github.com/Speedml/speedml) - Speed start machine learning projects.
-- [fastFM](https://github.com/ibayer/fastFM) - Factorization Machines.
 - [python-glmnet](https://github.com/civisanalytics/python-glmnet) - glmnet package for fitting generalized linear models.
 - [hmmlearn](https://github.com/hmmlearn/hmmlearn) - Hidden Markov Models.
 - [vecstack](https://github.com/vecxoz/vecstack) - stacking (machine learning technique).
-- [bayespy](https://github.com/bayespy/bayespy) - Bayesian inference tools.
 - [modAL](https://github.com/cosmic-cortex/modAL) - Modular Active Learning framework
 - [deap](https://github.com/DEAP/deap) - Evolutionary computation framework.
 - [pyro](https://github.com/uber/pyro) - Deep universal probabilistic programming with PyTorch.
@@ -51,7 +45,6 @@ A curated list of Python libraries used for data science.
 - [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyper-parameter optimization for sklearn.
 - [scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn.
 - [dstoolbox](https://github.com/ottogroup/dstoolbox) - Tools that make working with scikit-learn and pandas easier.
-- [dowhy](https://github.com/Microsoft/dowhy) - A unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
 - [modin](https://github.com/modin-project/modin) - Unify the way you interact with your data.
 - [pyomo](https://github.com/Pyomo/pyomo) - Python Optimization MOdels.
 - [BAMBI](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface.
@@ -70,8 +63,6 @@ A curated list of Python libraries used for data science.
 - [astropy](http://www.astropy.org/) - Astronomy and astrophysics.
 - [Biopython](http://biopython.org) - Astronomy and astrophysics.
 - [PyDy](http://www.pydy.org) - Multibody Dynamics.
-- [DIPY](https://github.com/nipy/dipy) - Diffusion MR Imaging.
-- [bcolz](https://github.com/Blosc/bcolz) - Columnar data container that can be compressed.
 - [nilearn](https://github.com/nilearn/nilearn) - NeuroImaging.
 - [patsy](https://github.com/pydata/patsy) - Describing statistical models using symbolic formulas.
 - [numexpr](https://github.com/pydata/numexpr) - Fast numerical array expression evaluator.
@@ -112,15 +103,12 @@ A curated list of Python libraries used for data science.
 - [foolbox](https://github.com/bethgelab/foolbox) - Python toolbox to create adversarial examples that fool neural networks.
 - [pytorch/vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision.
 - [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy.
-- [PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
 - [pytorch/ignite](https://github.com/pytorch/ignite) - High-level library to help with training neural networks in PyTorch.
-- [NMT](http://opennmt.net) - Neural machine translation and neural sequence modeling.
 - [Netron](https://github.com/lutzroeder/Netron) - Visualizer for deep learning and machine learning models.
 - [gpytorch](https://github.com/cornellius-gp/gpytorch) - A highly efficient and modular implementation of Gaussian Processes in PyTorch.
 - [tensorly](https://github.com/tensorly/tensorly) - Tensor Learning in Python.
 - [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented.
 - [hiddenlayer](https://github.com/waleedka/hiddenlayer) - Neural network graphs and training metrics for PyTorch, Tensorflow, and Keras.
-- [dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
 - [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) - Segmentation models with pretrained backbones.
 - [pytorch-lightning](https://github.com/williamFalcon/pytorch-lightning) - The lightweight PyTorch wrapper.
 - [lightly](https://docs.lightly.ai/index.html) - Lightly is a computer vision framework for self-supervised learning.
@@ -129,36 +117,23 @@ A curated list of Python libraries used for data science.
 
 - [fairseq](https://github.com/pytorch/fairseq) - Sequence-to-Sequence Toolkit.
 - [gradient-checkpointing](https://github.com/openai/gradient-checkpointing) - Make huge neutral nets fit in memory.
-- [Detectron](https://github.com/facebookresearch/Detectron) - FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
-- [detectorch](https://github.com/ignacio-rocco/detectorch) - detectron for PyTorch.
-- [Detectron.pytorch](https://github.com/roytseng-tw/Detectron.pytorch) - detectron for PyTorch.
 - [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - DeepMind's WaveNet.
 - [wtte-rnn](https://github.com/ragulpr/wtte-rnn) - WTTE-RNN a framework for churn and time to event prediction.
-- [3D-convolution-speaker-recognition](https://github.com/astorfi/3D-convolutional-speaker-recognition) - Speaker verification.
 - [DeepRecommender](https://github.com/NVIDIA/DeepRecommender) - Recommender systems.
 - [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions.
 - [vqa.pytorch](https://github.com/Cadene/vqa.pytorch) - Visual Question Answering in Pytorch.
 - [Half-Life Regression](https://github.com/duolingo/halflife-regression) - Model for spaced repetition practice.
 - [learning-to-learn](https://github.com/deepmind/learning-to-learn) - Learning to Learn in Tensorflow.
-- [face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api.
 - [capsule-networks](https://github.com/gram-ai/capsule-networks) - A PyTorch implementation of the NIPS 2017 paper "Dynamic Routing Between Capsules".
 - [Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow.
-- [tensornets](https://github.com/taehoonlee/tensornets) - High level network definitions with pre-trained weights in TensorFlow.
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow.
 - [lightnet](https://github.com/explosion/lightnet) - Bringing pjreddie's DarkNet out of the shadows.
-- [chess-alpha-zero](Zeta36/chess-alpha-zero) - Chess reinforcement learning by AlphaGo Zero methods.
-- [TernausNetV2](https://github.com/ternaus/TernausNetV2) - Fully Convolutional Network for Instance Segmentation.
 - [pytorch-openai-transformer-lm](https://github.com/huggingface/pytorch-openai-transformer-lm) - OpenAI's finetuned transformer language model with a script to import the weights pre-trained by OpenAI.
-- [DensePose](https://github.com/facebookresearch/DensePose) - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body.
-- [pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) - PyTorch implementation of the YOLO v3 object detection algorithm.
-- [CoordConv-pytorch](https://github.com/mkocabas/CoordConv-pytorch) - Pytorch implementation of CoordConv.
 - [PyTorch-NEAT](https://github.com/uber-research/PyTorch-NEAT) - NeuroEvolution of Augmenting Topologie.
 - [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) - Fast, modular reference implementation of Semantic Segmentation and Object Detection algorithm in PyTorch.
 - [Global_Convolutional_Network](https://github.com/SConsul/Global_Convolutional_Network) - GCN architecture for sematic segmentation.
 - [LovaszSoftmax](https://github.com/bermanmaxim/LovaszSoftmax) - Lovász-Softmax loss.
 - [ludwing](https://github.com/uber/ludwig) - Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
-- [gen-efficientnet-pytorch](https://github.com/rwightman/gen-efficientnet-pytorch) - Pretrained EfficientNet, MixNet, MobileNetV3, MNASNet A1 and B1, FBNet, Single-Path NAS.
-- [Norfair](https://github.com/tryolabs/norfair) - Real-time 2D object tracking.
 
 ## Visualization
 
@@ -255,7 +230,6 @@ A curated list of Python libraries used for data science.
 - [stumpy](https://github.com/TDAmeritrade/stumpy) - STUMPY is a powerful and scalable Python library that can be used for a variety of time series data mining tasks.
 - [n2](https://github.com/kakao/n2) - Lightweight approximate Nearest Neighbor library which runs faster even with large datasets.
 - [compressio](https://github.com/dylan-profiler/compressio) - Compressio provides lossless in-memory compression of pandas DataFrames and Series.
-- [Pandarallel](https://github.com/nalepae/pandarallel) - Parallel pandas.
 
 ### Time Series
 
@@ -309,12 +283,6 @@ A curated list of Python libraries used for data science.
 - [pysal](https://github.com/pysal/pysal) - Spatial Analysis Library.
 - [geopandas](https://github.com/geopandas/geopandas) - Tools for geographic data.
 
-### Web Content
-
-- [sum](https://github.com/miso-belica/sumy) - Automatic summarization of text documents and HTML.
-- [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.
-- [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation.
-
 ### Text/NLP
 
 - [BlingFire](https://github.com/Microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
@@ -367,15 +335,9 @@ A curated list of Python libraries used for data science.
 - [transformer-xl](https://github.com/kimiyoung/transformer-xl) - Attentive Language Models Beyond a Fixed-Length Context.
 - [textstat](https://github.com/shivam5992/textstat) - Calculate readability statistics of a text object - paragraphs, sentences, articles.
 - [nlpaug](https://github.com/makcedward/nlpaug) - Augmenting nlp for your machine learning projects.
-
-### Graphs
-
-- [louvain](https://github.com/taynaud/python-louvain) - Louvain Community Detection.
-
-
-### Outlier and Anomaly Detection
-
-- [pyod](https://github.com/yzhao062/pyod) - Comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data.
+- [sum](https://github.com/miso-belica/sumy) - Automatic summarization of text documents and HTML.
+- [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.
+- [newspaper](https://github.com/codelucas/newspaper) - News extraction, article extraction and content curation.
 
 ### Ranking/Recommender
 
@@ -392,23 +354,13 @@ A curated list of Python libraries used for data science.
 
 ## Misc
 
-- [great_expectations](https://github.com/great-expectations/great_expectations) - F framework that helps teams save time and promote analytic integrity with a new twist on automated testing: pipeline tests.
-- [Metrics](https://github.com/benhamner/Metrics) - Machine learning evaluation metrics.
-- [pyemd](https://github.com/wmayner/pyemd) - Earth Mover's Distance metric.
 - [mmh3](https://github.com/hajimes/mmh3) - MurmurHash3, a set of fast and robust hash functions.
 - [fbpca](https://github.com/facebook/fbpca) - Fast Randomized PCA/SVD.
 - [annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors.
 - [pipeline](https://github.com/PipelineAI/pipeline) - Standard Runtime For Every Real-Time Machine Learning.
-- [tabulate](https://bitbucket.org/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility.
 - [crayon](https://github.com/torrvision/crayon) - A language-agnostic interface to TensorBoard.
 - [faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
-- [neurtu](https://github.com/symerio/neurtu) - A Python package for parametric benchmarks.
-- [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
-- [filprofiler](https://github.com/pythonspeed/filprofiler) -
-Fil a memory profiler designed for data processing applications.
-- [pyprojroot](https://github.com/chendaniely/pyprojroot) - Finding project directories in Python.
-- [datasette](https://datasette.io) - An open source multi-tool for exploring and publishing data.
-- [viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
+- [pyod](https://github.com/yzhao062/pyod) - Comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data.
 
 ## Deployment
 
@@ -421,6 +373,12 @@ Fil a memory profiler designed for data processing applications.
 
 ## Python Tools
 
+- [neurtu](https://github.com/symerio/neurtu) - A Python package for parametric benchmarks.
+- [pyprojroot](https://github.com/chendaniely/pyprojroot) - Finding project directories in Python.
+- [datasette](https://datasette.io) - An open source multi-tool for exploring and publishing data.
+- [viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
+- [filprofiler](https://github.com/pythonspeed/filprofiler) - Fil a memory profiler designed for data processing applications.
+- [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
 - [delorean](https://github.com/myusuf3/delorean) - Time Travel Made Easy.
 - [pip-tools](https://github.com/nvie/pip-tools) - Keeps dependencies up to date.
 - [devpi](http://doc.devpi.net/latest/) - PyPI server and packaging/testing/release tool.
@@ -444,3 +402,5 @@ Fil a memory profiler designed for data processing applications.
 - [gain](https://github.com/gaojiuli/gain) - Web crawling framework based on asyncio.
 - [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
 - [camelot](https://github.com/socialcopsdev/camelot) - Camelot: PDF Table Extraction for Humans.
+- [Pandarallel](https://github.com/nalepae/pandarallel) - Parallel pandas.
+- [great_expectations](https://github.com/great-expectations/great_expectations) - F framework that helps teams save time and promote analytic integrity with a new twist on automated testing: pipeline tests.
