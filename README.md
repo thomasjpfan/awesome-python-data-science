@@ -15,7 +15,8 @@ A curated list of Python libraries used for data science.
 - [Feature Extraction](#feature-extraction)
 - [Trading](#trading)
 - [Misc](#misc)
-- [Deployment](#Deployment)
+- [Deployment](#deployment)
+- [Profiling](#profiling)
 - [Python Tools](#python-tools)
 - [Data Gathering](#data-gathering)
 
@@ -48,7 +49,6 @@ A curated list of Python libraries used for data science.
 - [modin](https://github.com/modin-project/modin) - Unify the way you interact with your data.
 - [pyomo](https://github.com/Pyomo/pyomo) - Python Optimization MOdels.
 - [BAMBI](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface.
-- [pymc4](https://github.com/pymc-devs/pymc4) - A high-level probabilistic programming interface for TensorFlow Probability.
 - [combo](https://github.com/yzhao062/combo) - A Python Toolbox for Machine Learning Model Combination.
 - [fastai](https://github.com/fastai/fastai) - The fast.ai deep learning library, lessons, and tutorials.
 - [pycaret](https://github.com/pycaret/pycaret) -  Low-code machine learning library in Python.
@@ -75,10 +75,8 @@ A curated list of Python libraries used for data science.
 
 - [Tensorflow](https://github.com/tensorflow/tensorflow) - DL Framework.
 - [PyTorch](http://pytorch.org) - DL Framework.
-- [onnx](https://github.com/onnx/onnx) - Open Neutral Network Exchange.
 - [Keras](https://keras.io) - High-level neutral networks API.
 - [tensorlayer](https://github.com/tensorlayer/tensorlayer) - A Deep Learning and Reinforcement Learning Library for Researchers and Engineers.
-- [chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning.
 - [mxnet](https://mxnet.incubator.apache.org) - Apache MXNet: A flexible and efficient library for deep learning.
 
 ## Deep Learning Tools
@@ -98,9 +96,6 @@ A curated list of Python libraries used for data science.
 - [hyperas](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt.
 - [spaCy](https://spacy.io) - Natural Language processing.
 - [tensorboard_logger](https://github.com/TeamHG-Memex/tensorboard_logger) - Log TensorBoard events without touching TensorFlow.
-- [keras-contrib](https://github.com/keras-team/keras-contrib) - Keras community contributions.
-- [tfdeploy](https://github.com/riga/tfdeploy) - Deploy tensorflow graphs.
-- [ktext](https://github.com/hamelsmu/ktext) - Utilities for preprocessing text for deep learning with Keras.
 - [foolbox](https://github.com/bethgelab/foolbox) - Python toolbox to create adversarial examples that fool neural networks.
 - [pytorch/vision](https://github.com/pytorch/vision) - Datasets, Transforms and Models specific to Computer Vision.
 - [gluon-nlp](https://github.com/dmlc/gluon-nlp) - NLP made easy.
@@ -117,9 +112,7 @@ A curated list of Python libraries used for data science.
 ## Deep Learning Projects
 
 - [fairseq](https://github.com/pytorch/fairseq) - Sequence-to-Sequence Toolkit.
-- [gradient-checkpointing](https://github.com/openai/gradient-checkpointing) - Make huge neutral nets fit in memory.
 - [tensorflow-wavenet](https://github.com/ibab/tensorflow-wavenet) - DeepMind's WaveNet.
-- [wtte-rnn](https://github.com/ragulpr/wtte-rnn) - WTTE-RNN a framework for churn and time to event prediction.
 - [DeepRecommender](https://github.com/NVIDIA/DeepRecommender) - Recommender systems.
 - [DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions.
 - [vqa.pytorch](https://github.com/Cadene/vqa.pytorch) - Visual Question Answering in Pytorch.
@@ -127,17 +120,15 @@ A curated list of Python libraries used for data science.
 - [learning-to-learn](https://github.com/deepmind/learning-to-learn) - Learning to Learn in Tensorflow.
 - [capsule-networks](https://github.com/gram-ai/capsule-networks) - A PyTorch implementation of the NIPS 2017 paper "Dynamic Routing Between Capsules".
 - [Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow.
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow.
 - [lightnet](https://github.com/explosion/lightnet) - Bringing pjreddie's DarkNet out of the shadows.
 - [pytorch-openai-transformer-lm](https://github.com/huggingface/pytorch-openai-transformer-lm) - OpenAI's finetuned transformer language model with a script to import the weights pre-trained by OpenAI.
-- [PyTorch-NEAT](https://github.com/uber-research/PyTorch-NEAT) - NeuroEvolution of Augmenting Topologie.
 - [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) - Fast, modular reference implementation of Semantic Segmentation and Object Detection algorithm in PyTorch.
-- [Global_Convolutional_Network](https://github.com/SConsul/Global_Convolutional_Network) - GCN architecture for sematic segmentation.
 - [LovaszSoftmax](https://github.com/bermanmaxim/LovaszSoftmax) - Lovász-Softmax loss.
 - [ludwing](https://github.com/uber/ludwig) - Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
 
 ## Visualization
 
+- [diagrams](https://github.com/mingrammer/diagrams) - Diagrams lets you draw the cloud system architecture in Python code.
 - [matplotlib](http://matplotlib.org/) - 2D plotting.
 - [seaborn](https://seaborn.pydata.org) - Visualization library.
 - [bokeh](https://github.com/bokeh/bokeh) - Interactive web plotting.
@@ -365,6 +356,7 @@ A curated list of Python libraries used for data science.
 
 ## Deployment
 
+- [onnx](https://github.com/onnx/onnx) - Open Neutral Network Exchange.
 - [lore](https://github.com/instacart/lore) - Lore makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers.
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes.
 - [airflow](https://github.com/apache/incubator-airflow) - ETL.
@@ -372,14 +364,23 @@ A curated list of Python libraries used for data science.
 - [sklearn-porter](https://github.com/nok/sklearn-porter) - Transpile trained scikit-learn estimators.
 - [sklearn-compiledtrees](https://github.com/ajtulloch/sklearn-compiledtrees) - Compiled Decision Trees for scikit-learn.
 
+## Profiling
+
+- [viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
+- [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
+- [memory_profiler](https://pypi.python.org/pypi/memory_profiler) - monitoring memory usage of a python program.
+- [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling.
+- [filprofiler](https://github.com/pythonspeed/filprofiler) - Fil a memory profiler designed for data processing applications.
+- [scalene](https://github.com/emeryberger/scalene) - High-performance CPU and memory profiler for Python.
+- [python-flamegraph](https://github.com/evanhempel/python-flamegraph) - Statistical profiler which outputs in format suitable for FlameGraph.
+
 ## Python Tools
 
+- [Typer](https://github.com/tiangolo/typer) - Build CLIs with type hints.
+- [hydra](https://hydra.cc) - Framework for elegantly configuring complex applications.
 - [neurtu](https://github.com/symerio/neurtu) - A Python package for parametric benchmarks.
 - [pyprojroot](https://github.com/chendaniely/pyprojroot) - Finding project directories in Python.
 - [datasette](https://datasette.io) - An open source multi-tool for exploring and publishing data.
-- [viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
-- [filprofiler](https://github.com/pythonspeed/filprofiler) - Fil a memory profiler designed for data processing applications.
-- [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
 - [delorean](https://github.com/myusuf3/delorean) - Time Travel Made Easy.
 - [pip-tools](https://github.com/nvie/pip-tools) - Keeps dependencies up to date.
 - [devpi](http://doc.devpi.net/latest/) - PyPI server and packaging/testing/release tool.
@@ -387,16 +388,7 @@ A curated list of Python libraries used for data science.
 - [click](https://github.com/pallets/click) - CLI package.
 - [sacredboard](https://github.com/chovanecm/sacredboard) - Dashboard for sacred.
 - [sacred](http://sacred.readthedocs.io/en/latest/) - Reproduce computational experiments.
-- [python-flamegraph](https://github.com/evanhempel/python-flamegraph) - Statistical profiler which outputs in format suitable for FlameGraph.
 - [magic-wormhole](https://github.com/warner/magic-wormhole) - get things from one computer to another, safely.
-- [memory_profiler](https://pypi.python.org/pypi/memory_profiler) - monitoring memory usage of a python program.
-- [line_profiler](https://github.com/rkern/line_profiler) - Line-by-line profiling.
-- [parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
-- [CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - CleverCSV is a Python package for handling messy CSV files
-- [diagrams](https://github.com/mingrammer/diagrams) -
-- [scalene](https://github.com/emeryberger/scalene) - High-performance CPU and memory profiler for Python.
-- [hydra](https://hydra.cc) - Framework for elegantly configuring complex applications.
-- [Typer](https://github.com/tiangolo/typer) - Build CLIs with type hints.
 
 ## Data Gathering
 
@@ -405,3 +397,5 @@ A curated list of Python libraries used for data science.
 - [camelot](https://github.com/socialcopsdev/camelot) - Camelot: PDF Table Extraction for Humans.
 - [Pandarallel](https://github.com/nalepae/pandarallel) - Parallel pandas.
 - [great_expectations](https://github.com/great-expectations/great_expectations) - F framework that helps teams save time and promote analytic integrity with a new twist on automated testing: pipeline tests.
+- [parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
+- [CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - CleverCSV is a Python package for handling messy CSV files
