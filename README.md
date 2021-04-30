@@ -81,6 +81,7 @@ A curated list of Python libraries used for data science.
 
 ## Deep Learning Tools
 
+- [TorchDrift](https://github.com/torchdrift/torchdrift/) - TorchDrift is a data and concept drift library for PyTorch.
 - [Edward](https://github.com/blei-lab/edward) - Probabilistic programming language in TensorFlow.
 - [pomegranate](https://github.com/jmschrei/pomegranate) - Probabilistic modelling.
 - [skorch](https://github.com/dnouri/skorch) - Scikit-learn PyTorch.
