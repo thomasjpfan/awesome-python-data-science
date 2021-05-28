@@ -334,6 +334,7 @@ A curated list of Python libraries used for data science.
 
 ### Ranking/Recommender
 
+- [recommenders](https://github.com/microsoft/recommenders) - Examples and best practices for building recommendation systems
 - [Surprise](https://github.com/NicolasHug/Surprise) - Analyzing recommender systems.
 - [trueskill](https://github.com/sublee/trueskill) - TrueSkill rating system.
 - [LightFM](https://github.com/lyst/lightfm) - Hybrid recommendation algorithm.
