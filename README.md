@@ -226,6 +226,7 @@ A curated list of Python libraries used for data science.
 
 ### Time Series
 
+- [GrayKite](https://github.com/linkedin/greykite) - Greykite: A flexible, intuitive and fast forecasting library
 - [Causality](https://github.com/akelleh/causality) - Causal analysis.
 - [traces](https://github.com/datascopeanalytics/traces) - Unevenly-spaced time series analysis.
 - [PyFlux](https://github.com/RJT1990/pyflux) - Time series library for Python.
