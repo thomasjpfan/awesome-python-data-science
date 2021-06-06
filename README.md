@@ -226,6 +226,7 @@ A curated list of Python libraries used for data science.
 
 ### Time Series
 
+- [Darts](https://github.com/unit8co/darts) - darts is a Python library for easy manipulation and forecasting of time series.
 - [GrayKite](https://github.com/linkedin/greykite) - Greykite: A flexible, intuitive and fast forecasting library
 - [Causality](https://github.com/akelleh/causality) - Causal analysis.
 - [traces](https://github.com/datascopeanalytics/traces) - Unevenly-spaced time series analysis.
