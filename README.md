@@ -280,6 +280,7 @@ A curated list of Python libraries used for data science.
 
 ### Text/NLP
 
+- [wordfreq](https://github.com/rspeer/wordfreq) - Library for looking up the frequencies of words in many languages, based on many sources of data.
 - [BlingFire](https://github.com/Microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
 - [BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation.
 - [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) - PyTorch version of Google AI's BERT model with script to load Google's pre-trained models.
