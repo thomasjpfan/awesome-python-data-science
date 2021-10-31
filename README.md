@@ -362,6 +362,7 @@ A curated list of Python libraries used for data science.
 
 ## Deployment
 
+- [evidently](https://github.com/evidentlyai/evidently) - Evidently helps evaluate machine learning models during validation and monitor them in production.
 - [onnx](https://github.com/onnx/onnx) - Open Neutral Network Exchange.
 - [lore](https://github.com/instacart/lore) - Lore makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers.
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes.
