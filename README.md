@@ -129,6 +129,7 @@ A curated list of Python libraries used for data science.
 
 ## Visualization
 
+- [Great Tables](https://github.com/posit-dev/great-tables) - Absolutely Delightful Table-making in Python.
 - [PyGWalker](https://docs.kanaries.net/pygwalker) - Turns pandas and polars dataframes into a Tableau-like user interface for visual exploration.
 - [diagrams](https://github.com/mingrammer/diagrams) - Diagrams lets you draw the cloud system architecture in Python code.
 - [matplotlib](http://matplotlib.org/) - 2D plotting.
