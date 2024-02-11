@@ -375,6 +375,7 @@ A curated list of Python libraries used for data science.
 
 ## Profiling
 
+- [mem_usage_ui](https://github.com/parikls/mem_usage_ui) - Measuring and graphing memory usage of local processes.
 - [viztracer](https://github.com/gaogaotiantian/viztracer) - VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution.
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
 - [memory_profiler](https://pypi.python.org/pypi/memory_profiler) - monitoring memory usage of a python program.
