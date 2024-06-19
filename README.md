@@ -6,6 +6,7 @@ A curated list of Python libraries used for data science.
 
 - [Machine Learning Frameworks](#machine-learning-frameworks)
 - [Scientific](#scientific)
+- [Outlier Detection](#outliter-detection)
 - [Deep Learning Frameworks](#deep-learning-frameworks)
 - [Deep Learning Tools](#deep-learning-tools)
 - [Deep Learning Projects](#deep-learning-projects)
@@ -70,6 +71,11 @@ A curated list of Python libraries used for data science.
 - [dask](https://github.com/dask/dask) - Parallel computing with task scheduling.
 - [or-tools](https://github.com/google/or-tools) - Google's Operations Research tools. Classical CS algorithms.
 - [cvxpy](https://github.com/cvxgrp/cvxpy) - Python-embedded modeling language for convex optimization problems.
+
+## Outlier Detection
+
+- [PyOD](https://github.com/yzhao062/pyod) - Versatile Python library for detecting anomalies in multivariate data.
+- [DeepOD](https://github.com/xuhongzuo/DeepOD) - Deep learning-based outlier/anomaly detection
 
 ## Deep Learning Frameworks
 
